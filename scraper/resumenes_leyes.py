@@ -8,6 +8,7 @@ import json, pathlib
 
 DATA = pathlib.Path(__file__).resolve().parent.parent / "data"
 R = {
+    "d30-2024": ("Aprueba las negociaciones de dos préstamos con el Banco Interamericano de Desarrollo (BID), de hasta US$120 millones en total, para el Programa para la Infraestructura de Electrificación Rural (PIER), que busca conectar a nuevos usuarios en zonas rurales construyendo redes de distribución eléctrica. Autoriza al Organismo Ejecutivo, por medio del Ministerio de Finanzas Públicas, a firmar los contratos.", "pdf"),
     "d22-2026": ("Exime temporalmente del Impuesto a la Distribución de Petróleo (IDP) y del IVA a la gasolina regular, la gasolina superior y el diésel, desde el día siguiente a su publicación hasta el 31 de diciembre de 2026. Busca amortiguar el impacto en los hogares y en la producción del alza de precios: el barril WTI pasó de unos US$64 en febrero a más de US$100 en septiembre de 2026.", "pdf"),
     "d11-2026": ("Responde al alza internacional de los precios del petróleo por las tensiones geopolíticas (como las del Estrecho de Ormuz) y su efecto en el diésel y las gasolinas. Propone un apoyo de emergencia para los consumidores de esos combustibles.", "pdf"),
     "i6742": ("Propone un apoyo social temporal para reducir el precio que pagan los consumidores de diésel y de gasolina superior y regular, con una duración de dos meses desde la publicación de su reglamento. Busca mitigar el efecto del alza internacional de los combustibles.", "pdf"),

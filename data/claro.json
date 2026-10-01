@@ -1,86 +1,342 @@
 {
-"d22-2026": {"c": "Quita impuestos a la gasolina y al diésel hasta fin de año", "r": "Esta ley quita temporalmente dos impuestos a la gasolina regular, la gasolina superior y el diésel: el de distribución de petróleo (IDP) y el IVA. Rige desde el día siguiente a su publicación hasta el 31 de diciembre de 2026.\n\nBusca frenar el golpe a los hogares y a la producción por el alza de precios: el barril de petróleo WTI pasó de unos US$64 en febrero a más de US$100 en septiembre de 2026."},
-"d11-2026": {"c": "Apoyo de emergencia por el alza del combustible", "r": "Responde a la subida internacional del petróleo, causada por tensiones entre países (como las del Estrecho de Ormuz), que encareció el diésel y las gasolinas.\n\nPropone un apoyo de emergencia para quienes compran esos combustibles."},
-"i6742": {"c": "Propone bajar por dos meses el precio del diésel y la gasolina", "r": "Propone un apoyo social temporal para que los consumidores paguen menos por el diésel y la gasolina, superior y regular. Duraría dos meses, contados desde la publicación de su reglamento.\n\nBusca aliviar el efecto de la subida internacional de los combustibles."},
-"i6844": {"c": "Propone precios de referencia para los combustibles", "r": "Propone una ley para estabilizar los precios de los combustibles y fijar precios de referencia de venta al consumidor final.\n\nSe presentó porque el costo del diésel subió desde febrero de 2026 por la inestabilidad del mercado mundial de energía."},
-"d3-2026": {"c": "Amplía en más de Q9 mil millones el presupuesto de 2026", "r": "Propone aumentar el Presupuesto General del Estado de 2026 (el aprobado en el Decreto 36-2024) en Q9,326,723,238.\n\nLa cifra se basa en la opinión técnica de Finanzas Públicas incluida en el expediente."},
-"i6702": {"c": "Evita que los fondos de los Consejos de Desarrollo se repartan en automático", "r": "Cambia dos leyes sobre los Consejos de Desarrollo, que manejan fondos para obras en los municipios. Quita reglas que podían crear «automatismos financieros», es decir, que el dinero se asignara casi solo, sin análisis.\n\nTambién pasa a la ley permanente la cooperación entre instituciones y los plazos para dar opiniones y avales a los proyectos."},
-"d6-2026": {"c": "Elimina el impuesto a las herencias y donaciones", "r": "Esta ley termina con el impuesto que se cobraba al recibir una herencia, un legado o una donación.\n\nSus autores dicen que ese impuesto cobraba más de una vez sobre el mismo patrimonio, recaudaba poco y obligaba a muchas familias a vender lo heredado para poder pagarlo."},
-"d5-2026": {"c": "Las municipalidades podrán volver a pedir préstamos al INFOM", "r": "Cambia el Código Municipal para que las municipalidades puedan pedir otra vez préstamos al Instituto de Fomento Municipal (INFOM).\n\nUna reforma anterior (Decreto 21-2025) había limitado esos préstamos a bancos supervisados por la Superintendencia de Bancos."},
-"i6337": {"c": "Propone salas de lactancia en las oficinas del Estado", "r": "Propone que las oficinas del Estado instalen salas de lactancia materna privadas, seguras y de fácil acceso para las trabajadoras. Las usuarias que esas oficinas atienden también podrían usarlas.\n\nSe apoya en la recomendación de la Organización Mundial de la Salud de dar solo leche materna hasta los seis meses de edad."},
-"d7-2026": {"c": "Nueva ley para la Procuraduría General de la Nación", "r": "Crea una ley propia para la Procuraduría General de la Nación, la institución que representa y defiende legalmente al Estado.\n\nLa exposición de motivos repasa cómo ha estado regulada en las constituciones desde 1945."},
-"d9-2026": {"c": "Fortalece las finanzas de las pensiones militares", "r": "Busca mejorar las finanzas del Régimen de Previsión Militar y dignificar lo que reciben jubilados, pensionados, viudas y huérfanos.\n\nExplica que el sistema perdió equilibrio: antes había 31 personas aportando por cada jubilado, y hoy la proporción es mucho menor."},
-"d8-2026": {"c": "Nombra a los magistrados de la Corte de Constitucionalidad 2026-2031", "r": "Forma la Corte de Constitucionalidad para el período 2026-2031 con los magistrados titulares y suplentes que eligieron la Corte Suprema, el Congreso, el Presidente con su Consejo de Ministros, la Universidad de San Carlos y el Colegio de Abogados."},
-"i6747": {"c": "Propone una medida temporal para ordenar la Universidad de San Carlos", "r": "Propone una medida excepcional, temporal y proporcional para restablecer el orden en la Universidad de San Carlos.\n\nSegún el texto, una crisis ha trabado el cambio de autoridades y afectado la calidad de la educación."},
-"i6355": {"c": "Propone proteger a adolescentes de relaciones con adultos", "r": "Propone reformar el artículo 173 del Código Penal para proteger a niñas, niños y adolescentes de las relaciones sexuales con adultos.\n\nBusca cerrar un vacío vigente desde 2009: hoy, si una persona apenas cumplió 14 años, el adulto podía argumentar que hubo consentimiento y no tener responsabilidad penal."},
-"i6347": {"c": "Propone una ley permanente contra los delitos por internet", "r": "Propone crear un marco permanente de ciberseguridad y de lucha contra los delitos digitales. Hoy solo existe un Comité Nacional temporal, creado por un acuerdo del gobierno.\n\nLa ley también permitiría que Guatemala se sume al Convenio de Budapest sobre ciberdelincuencia."},
-"d14-2026": {"c": "Crea el Día Nacional del Terapeuta Respiratorio", "r": "Declara el Día Nacional del Terapeuta Respiratorio, para reconocer su trabajo en la atención y recuperación de pacientes, sobre todo durante la pandemia de COVID-19."},
-"i6449": {"c": "Propone una ley para los alquileres comerciales", "r": "Propone una ley propia para el arrendamiento comercial, es decir, el alquiler de locales para negocios.\n\nLa exposición de motivos repasa cómo se ha regulado el contrato de arrendamiento en Guatemala desde el Código Civil de 1877."},
-"d13-2026": {"c": "Evita que el aumento del salario mínimo obligue a pagar Impuesto Sobre la Renta", "r": "Cambia la Ley de Actualización Tributaria para que, con el aumento del salario mínimo de 2026, los trabajadores con empleo formal no pasen a pagar Impuesto Sobre la Renta.\n\nSe argumenta que el salario es un ingreso para alimentarse y vivir, por lo que no debería gravarse."},
-"d12-2026": {"c": "Más dinero del Estado para los institutos por cooperativa", "r": "Cambia la ley de los Institutos de Educación por Cooperativa de Enseñanza: aumenta el dinero que el Estado les da y reorganiza su administración.\n\nTambién fija un mínimo y un máximo de estudiantes por grado."},
-"d16-2026": {"c": "Asegura el dinero para las Elecciones Generales 2027", "r": "Garantiza con anticipación el dinero que el Tribunal Supremo Electoral necesita para preparar las Elecciones Generales de 2027.\n\nEs necesario porque las compras y contrataciones tienen que empezar este mismo año fiscal."},
-"d15-2026": {"c": "Nueva ley contra el lavado de dinero y el financiamiento del terrorismo", "r": "Reúne y actualiza en una sola ley las normas para prevenir y sancionar el lavado de dinero y el financiamiento del terrorismo.\n\nEl Congreso la presentó como una ley que ordena todo el marco legal contra el lavado de dinero."},
-"d19-2026": {"c": "Amplía el plazo para pagar el impuesto de circulación de vehículos", "r": "Da más tiempo, de forma temporal, para pagar el Impuesto Sobre Circulación de Vehículos.\n\nBusca que las dificultades económicas de las personas no se conviertan en mora, multas e intereses."},
-"d18-2026": {"c": "Exonera del impuesto de inmuebles a quienes aún pagan su casa", "r": "Agrega a la ley del Impuesto Único Sobre Inmuebles una exoneración temporal: quienes todavía no terminan de pagar su vivienda no pagarían ese impuesto hasta completar sus pagos.\n\nTambién cambia las tasas del impuesto."},
-"d17-2026": {"c": "Garantiza que los beneficiarios del programa de ex militares cobren hasta el final", "r": "Cambia el Decreto 51-2022 para asegurar que las personas inscritas en el Programa de Desarrollo Integral reciban hasta el final el apoyo económico previsto.\n\nEl apoyo es de Q36,000 repartidos en tres años, a razón de Q1,000 al mes."},
-"d20-2026": {"c": "Crea el Sistema Portuario Nacional y una autoridad para los puertos", "r": "Establece el Sistema Portuario Nacional, dirigido por una Autoridad Portuaria Nacional, con reglas para las concesiones y las alianzas entre el Estado y empresas privadas.\n\nCrea un ente regulador que coordina a los puertos sin quitarles su autonomía."},
-"i6556": {"c": "Propone regular el teletrabajo", "r": "Propone regular el teletrabajo, que ni la Constitución ni el Código de Trabajo tratan de forma específica.\n\nBusca proteger los derechos de quienes trabajan a distancia y dar certeza a las empresas."},
-"i6518": {"c": "Propone cambiar artículos del Código Civil sobre bienes del matrimonio", "r": "Propone reformar artículos del Código Civil, de 1963, entre ellos los que tratan la disolución de los bienes que se comparten en una unión.\n\nSus autores dicen que esos artículos van contra la Constitución y los tratados de derechos humanos, en especial contra la igualdad entre mujeres y hombres."},
-"i6493": {"c": "Propone limitar la prisión preventiva", "r": "Propone reformar el Código Procesal Penal en lo que se refiere a la prisión preventiva, es decir, tener a alguien preso antes de que lo juzguen, y a otras medidas similares.\n\nBusca reducir el hacinamiento en las cárceles, reforzar que toda persona es inocente hasta que se pruebe lo contrario y ajustar la ley a normas internacionales de derechos humanos."},
-"i5378": {"c": "Propone aprobar la convención sobre los derechos de las personas mayores", "r": "Propone que Guatemala apruebe la Convención Interamericana sobre la Protección de los Derechos Humanos de las Personas Mayores, adoptada en 2015 en Washington, D.C.\n\nLa presentó el Organismo Ejecutivo en 2017."},
-"d3-2024": {"c": "Crea el Día Nacional de los Idiomas Indígenas", "r": "Declara el Día Nacional de los Idiomas Indígenas.\n\nSe apoya en la Declaración de la ONU sobre los Derechos de los Pueblos Indígenas, que reconoce su derecho a revivir, usar y transmitir sus lenguas."},
-"d9-2024": {"c": "Actualiza la ley del instituto de recreación de los trabajadores", "r": "Pone al día la ley que creó el Instituto de Recreación de los Trabajadores de la Empresa Privada de Guatemala, para que su estructura corresponda a la realidad actual.\n\nSu fin es dar recreación y descanso a los trabajadores del sector privado, y busca que lo cumpla con más eficiencia."},
-"d10-2024": {"c": "El Ministerio de Salud dirigirá la certificación de discapacidad", "r": "Cambia la Ley de Certificación Biopsicosocial de las Personas con Discapacidad para que el Ministerio de Salud Pública sea quien dirija el sistema nacional que certifica la discapacidad."},
-"d12-2024": {"c": "Cierra el Fondo de Desarrollo de la Telefonía (FONDETEL)", "r": "Disuelve y liquida el Fondo de Desarrollo de la Telefonía (FONDETEL), creado para financiar proyectos de telecomunicaciones en zonas rurales y de bajos ingresos.\n\nLa ley también fija cómo se hará ese cierre y la liquidación."},
-"d13-2024": {"c": "Amplía el plazo para pagar el impuesto de circulación de vehículos", "r": "Da más tiempo, de forma temporal, para pagar el Impuesto de Circulación de Vehículos.\n\nSe apoya en el principio de que cada quien paga según lo que puede y en el alza de precios posterior a la pandemia."},
-"d14-2024": {"c": "Amplía el programa de apoyo a ex militares de tropa", "r": "Extiende de forma temporal el Programa de Desarrollo Integral (Decreto 51-2022), que reconoce el servicio militar que prestó el personal de tropa durante el enfrentamiento armado interno.\n\nCon la ampliación, más personas podrían beneficiarse."},
-"d2-2024": {"c": "Propone una ley para las tarjetas de crédito", "r": "Propone una ley específica para las tarjetas de crédito.\n\nSu exposición de motivos parte de la idea de que el crédito es una relación de confianza entre quien lo da y quien lo recibe."},
-"i6403": {"c": "Propone ampliar el presupuesto de 2024", "r": "Propone ampliar el Presupuesto General de 2024 para dar dinero a varias entidades públicas y asegurar los bienes y servicios que entregan a la población."},
-"d17-2024": {"c": "Amplía el presupuesto de 2024 (segundo intento)", "r": "Vuelve a plantear la ampliación del Presupuesto General de 2024, porque el trámite de la iniciativa anterior (6403) quedó detenido por un amparo provisional de la Corte de Constitucionalidad.\n\nDa dinero a varias entidades públicas para asegurar los bienes y servicios que entregan a la población."},
-"d20-2024": {"c": "Exonera de impuestos las importaciones de ayuda antinarcóticos de EE. UU.", "r": "Libera del IVA, de los aranceles y de cualquier otro impuesto la importación de bienes que haga el Departamento de Estado de Estados Unidos, por medio de su sección de asuntos de narcóticos y aplicación de la ley.\n\nForma parte de la cooperación entre ambos países contra el narcotráfico."},
-"d19-2024": {"c": "Salud podrá dar de baja y desechar sus bienes inservibles", "r": "Permite al Ministerio de Salud Pública dar de baja y disponer de sus bienes muebles que ya no sirven.\n\nEl fin es liberar espacio en los edificios de sus unidades de servicio."},
-"i6015": {"c": "Propone una nueva ley para la Policía Nacional Civil", "r": "Propone una nueva Ley de la Policía Nacional Civil que reemplace a la de 1997 (Decreto 11-97), que según la Comisión de Gobernación ya no responde a las necesidades de la institución.\n\nRetoma la iniciativa 5410, de 2018."},
-"d24-2024": {"c": "Aprueba dos préstamos para la carretera CA-9 Norte (El Rancho–Teculután)", "r": "Aprueba dos financiamientos para el Programa de Desarrollo del Corredor CA-9 Norte, en el tramo El Rancho–Teculután.\n\nUno es un convenio de crédito de hasta US$100 millones con el Instituto de Crédito Oficial de España y el otro un préstamo de hasta US$75 millones con el Banco Interamericano de Desarrollo."},
-"d25-2024": {"c": "Garantiza vacunas contra las enfermedades que se pueden prevenir", "r": "Garantiza a la población protección contra las enfermedades que se previenen con vacunas, aplicando vacunas de calidad a todos o a los grupos de riesgo.\n\nSe apoya en el derecho constitucional a la salud y en el papel del Ministerio de Salud como ente rector."},
-"d27-2024": {"c": "Agiliza las obras de los Consejos de Desarrollo", "r": "Acelera la ejecución de obras de los Consejos de Desarrollo Urbano y Rural dando más flexibilidad al manejo del presupuesto y del dinero.\n\nTambién ordena a las entidades involucradas actualizar sus reglas de compras, contratos y registro de proyectos."},
-"i6404": {"c": "Propone crear el Fondo Verde Nacional", "r": "Propone crear el Fondo Verde Nacional para financiar programas, proyectos y estudios que mejoren, conserven y recuperen el medio ambiente.\n\nSe basa en el artículo 97 de la Constitución, que ordena proteger el ambiente."},
-"d33-2024": {"c": "Los vehículos del Estado tendrán que estar identificados", "r": "Cambia la Ley de Tránsito. La iniciativa principal (6063) busca que los vehículos del Estado estén identificados.\n\nAsí se define quién responde por quien los usa y la gente puede comprobar que se emplean en funciones oficiales."},
-"d35-2024": {"c": "Nueva ley de la Policía Nacional Civil", "r": "Crea una nueva Ley de la Policía Nacional Civil que reemplaza a la de 1997 (Decreto 11-97) y junta en un solo texto varios acuerdos del gobierno y de ministerios.\n\nRegula cómo se organiza y funciona la institución, la carrera policial, el manejo de recursos y los controles internos."},
-"d34-2024": {"c": "Cambia un artículo de la Ley contra la Delincuencia Organizada", "r": "Reforma el artículo 82 de la Ley contra la Delincuencia Organizada, que según sus autores no cumple normas constitucionales sobre derecho de defensa, seguridad jurídica y libertad de asociación de organizaciones políticas.\n\nBusca separar qué le toca decidir a los jueces ordinarios y qué al Tribunal Supremo Electoral."},
-"d36-2024": {"c": "Presupuesto del Estado para 2025", "r": "Fija cuánto dinero ingresará y gastará el Estado durante 2025: el Presupuesto General de Ingresos y Egresos."},
-"d1-2025": {"c": "Amplía el presupuesto de 2025", "r": "Amplía el Presupuesto General de 2025 para dar dinero a las entidades públicas y cumplir compromisos que ya están en otras leyes.\n\nTambién cambia el artículo 140 del presupuesto vigente para dar al Ministerio de Salud más facultades sobre su presupuesto de funcionamiento."},
-"d3-2025": {"c": "Atiende a los menores que visitan a personas presas", "r": "Cambia la Ley del Régimen Penitenciario y el Código Penal para atender a niñas, niños y adolescentes que visitan a personas presas, en un sistema con hacinamiento.\n\nA fines de 2023 había 23,582 personas presas para 6,842 plazas."},
-"d2-2025": {"c": "Actualiza el Código Penal", "r": "Propone poner al día el Código Penal para que siga siendo eficaz y justo ante los cambios sociales y tecnológicos.\n\nBusca evitar la impunidad y la falta de protección por normas que quedaron atrasadas."},
-"d4-2025": {"c": "Cambia el decreto del Día Nacional de la Comadrona", "r": "Modifica el decreto que declara el 19 de mayo como Día Nacional de la Comadrona Guatemalteca.\n\nSu exposición de motivos recuerda el Convenio 169 sobre pueblos indígenas, que pide organizar los servicios de salud junto con los pueblos y respetar sus prácticas tradicionales."},
-"d5-2025": {"c": "Crea el Día Nacional de la Biblia", "r": "Declara el primer sábado de agosto de cada año como Día Nacional de la Biblia.\n\nSe da en reconocimiento a su influencia histórica, espiritual y cultural en Guatemala."},
-"d6-2025": {"c": "Bono anual de riesgo para los Bomberos Voluntarios", "r": "Crea un Bono de Riesgo Anual para el personal permanente (renglón 011) del Benemérito Cuerpo Voluntario de Bomberos de Guatemala.\n\nSe da por los riesgos que enfrentan al atender emergencias."},
-"i5508": {"c": "Propone crear la Comisión Nacional Tripartita laboral", "r": "Propone crear por ley la Comisión Nacional Tripartita de Relaciones Laborales y Libertad Sindical.\n\nLa exposición de motivos recuerda que Guatemala es miembro fundador de la Organización Internacional del Trabajo, donde gobiernos, empleadores y trabajadores participan en igualdad."},
-"d8-2025": {"c": "Corrige la presidencia del Directorio en la Ley de Competencia", "r": "Cambia el artículo 30 de la Ley de Competencia (Decreto 32-2024) para eliminar la rotación de la presidencia del Directorio, porque ya está regulada en la reforma del artículo 43.\n\nBusca que los artículos de la ley no se contradigan."},
-"i6452": {"c": "Propone actualizar cuánto del sueldo no se puede embargar", "r": "Propone actualizar el artículo 96 del Código de Trabajo, de 1947, que fija los montos y porcentajes del salario que no se pueden embargar.\n\nSus autores dicen que esos montos quedaron atrasados frente al salario mínimo y al costo de vida de hoy."},
-"i6412": {"c": "Propone cambios al Código de Trabajo", "r": "Propone reformar el Código de Trabajo.\n\nSu exposición de motivos parte de la Declaración Universal de los Derechos Humanos y de la distancia entre los derechos laborales reconocidos y la realidad de quienes trabajan."},
-"d10-2025": {"c": "Cambia la Ley de Alimentación Escolar y la del IVA", "r": "Reforma la Ley de Alimentación Escolar y la Ley del IVA.\n\nParte de la obligación del Estado de cuidar la alimentación y nutrición adecuadas, sobre todo de la niñez y la adolescencia."},
-"d14-2025": {"c": "Podrás conservar tu número de celular al cambiar de compañía", "r": "Regula el derecho de las personas que usan teléfono celular a quedarse con su número cuando cambian de proveedor, con un proceso transparente, ágil y justo.\n\nSe argumenta que el número funciona como un identificador personal y que perderlo puede quitar oportunidades."},
-"d13-2025": {"c": "Cambia la Ley Orgánica del Presupuesto", "r": "Reforma la Ley Orgánica del Presupuesto, que regula el uso eficaz y eficiente del dinero público en todos los organismos y entidades del Estado."},
-"d12-2025": {"c": "Agiliza registrar a nombre del Estado los terrenos de las escuelas", "r": "Crea un procedimiento temporal para inscribir más rápido, a nombre del Estado, los inmuebles que usa el Ministerio de Educación y que no están registrados.\n\nAsí los centros educativos públicos tienen certeza legal y se puede invertir dinero público en su infraestructura."},
-"i6140": {"c": "Propone esterilizar perros y gatos en jornadas masivas", "r": "Propone ampliar lo que puede hacer la Unidad de Bienestar Animal para que realice jornadas masivas de esterilización y castración de perros y gatos.\n\nHoy solo puede esterilizar animales que le entregan, y únicamente cuando es estrictamente necesario."},
-"d19-2025": {"c": "Aprueba el acuerdo de vuelos con los Emiratos Árabes Unidos", "r": "Aprueba el acuerdo entre Guatemala y los Emiratos Árabes Unidos sobre servicios aéreos entre sus territorios y más allá. Se firmó en Antigua Guatemala el 11 de mayo de 2023.\n\nLo presentó el Organismo Ejecutivo."},
-"d18-2025": {"c": "Aprueba que Guatemala se sume al tratado de libre comercio con Corea", "r": "Aprueba el protocolo para que Guatemala se una al Tratado de Libre Comercio entre la República de Corea y las repúblicas de Centroamérica.\n\nLo presentó el Organismo Ejecutivo."},
-"d17-2025": {"c": "Agiliza la devolución de impuestos pagados de más", "r": "Busca acelerar la devolución de impuestos que se pagaron de más o por error.\n\nEl saldo registrado en la cuenta corriente de cada contribuyente podría usarse para la devolución general de impuestos, sin exclusiones."},
-"d16-2025": {"c": "Subsidio para reconstruir casas dañadas por sismos", "r": "Crea un subsidio temporal para reconstruir viviendas de familias que quedaron dañadas por sismos, en un país con mucha actividad sísmica.\n\nMenciona los sismos registrados desde el 8 de julio de 2025 en Guatemala, Escuintla, Sacatepéquez, Suchitepéquez, Baja Verapaz y Jutiapa."},
-"d15-2025": {"c": "Corrige el nombre de dos organizaciones en el presupuesto de 2025", "r": "Corrige el artículo 132 del Presupuesto de 2025 para escribir bien el nombre de dos organizaciones no gubernamentales que recibirían dinero del Ministerio de Desarrollo Social (renglón 435).\n\nAsí se asegura que los fondos aprobados lleguen a quienes corresponde."},
-"i6226": {"c": "Propone una ley para un instituto técnico industrial en Suchitepéquez", "r": "Propone una ley para el Instituto Técnico Industrial Georg Kerschensteiner, en Suchitepéquez, con el fin de regular su enseñanza técnica industrial.\n\nArgumenta que hay pocos institutos técnicos de nivel medio y que jóvenes del interior del país se van a la capital para estudiar."},
-"d26-2025": {"c": "Préstamo de hasta US$50 millones para modernizar las finanzas públicas", "r": "Aprueba un préstamo de hasta US$50 millones con el Banco Internacional de Reconstrucción y Fomento (BIRF) para el proyecto «Finanzas Públicas Inteligentes: gestión del gasto público basada en datos».\n\nLo ejecutará el Ministerio de Finanzas Públicas."},
-"d22-2025": {"c": "Préstamo del BID para mejorar la calidad del gasto social", "r": "Aprueba el contrato de préstamo 5479/OC-GU con el Banco Interamericano de Desarrollo para el «Programa de Apoyo a la Mejora de la Calidad del Gasto Social».\n\nEn el trámite se discutió junto con la iniciativa 6682, un préstamo del BID de hasta US$250 millones para llevar electricidad al área rural, a cargo del INDE."},
-"d21-2025": {"c": "Ordena cómo el Estado se une con empresas para construir obras", "r": "Cambia la Ley de Alianzas para el Desarrollo de Infraestructura Económica, que regula las obras que el Estado hace junto con empresas privadas. Aclara su objeto, amplía a qué se aplica y define cada etapa: planteamiento, priorización, licitación, adjudicación y ejecución.\n\nEl objetivo es dar más transparencia, eficiencia y sostenibilidad a esas alianzas."},
-"d20-2025": {"c": "Crea el Día de la Dignificación de las Mujeres Indígenas", "r": "Instituye el Día de la Dignificación de las Mujeres Indígenas, ante la discriminación y el racismo que persisten contra ellas.\n\nSe apoya en el Convenio 169 y en el Acuerdo sobre Identidad y Derechos de los Pueblos Indígenas."},
-"d27-2025": {"c": "Presupuesto del Estado para 2026", "r": "Fija cuánto dinero ingresará y gastará el Estado durante 2026.\n\nSegún su exposición de motivos, cuatro instituciones concentran el 77.2 % del monto: Obligaciones del Estado a Cargo del Tesoro (37.3 %), Ministerio de Educación (16.4 %), pago de la deuda pública (13.3 %) y Ministerio de Salud (10.1 %)."},
-"d25-2025": {"c": "Préstamo de hasta US$400 millones para carreteras rurales", "r": "Aprueba un préstamo de hasta US$400 millones con el Banco Internacional de Reconstrucción y Fomento (BIRF) para el Programa de Infraestructura Rural y Movilidad para el Buen Vivir.\n\nLo ejecutará el Ministerio de Comunicaciones, por medio de la Dirección General de Caminos, para desarrollar carreteras y reforzar a esa dirección."},
-"d24-2025": {"c": "Préstamo de hasta US$350 millones para la carretera CA-9 Norte (Teculután–Mayuelas)", "r": "Aprueba un contrato de préstamo de hasta US$350 millones con el Banco Interamericano de Desarrollo (BID) para el Programa de Desarrollo del Corredor CA-9 Norte, en el subtramo Teculután–Mayuelas.\n\nLo ejecutará el Ministerio de Comunicaciones, por medio de la Dirección General de Caminos."},
-"i6624": {"c": "Propone crear la Secretaría de Integridad Pública", "r": "Propone cambiar la Ley del Organismo Ejecutivo agregando el artículo 14 quater, sobre la Secretaría de Integridad Pública de la Presidencia.\n\nBusca unir esfuerzos entre instituciones y hacer más transparente la administración pública. La presentó el Organismo Ejecutivo."},
-"i6509": {"c": "Propone cambiar tres artículos de la Ley de Alimentación Escolar", "r": "Propone reformar tres artículos de la Ley de Alimentación Escolar: el 26 (qué contiene la alimentación escolar), el 31 (la Comisión Interinstitucional de Alimentación Escolar) y el 33 (el dinero que se asigna).\n\nEsa ley busca garantizar la alimentación en las escuelas y promover que la niñez y la adolescencia coman saludable."},
-"d7-2025": {"c": "Permite terminar las obras de los Consejos de Desarrollo que quedaron a medias", "r": "Asegura que continúen los proyectos de los Consejos de Desarrollo Urbano y Rural que se pagaban con asignaciones extraordinarias en 2024 (Decretos 17-2024 y 36-2024) y que no se lograron terminar ese año.\n\nLo hace mediante un mecanismo de fortalecimiento financiero."},
-"i6416": {"c": "Propone cambiar la ley del programa de apoyo a ex militares", "r": "Propone reformar el Decreto 51-2022 (Ley Temporal de Desarrollo Integral), que reconoce a quienes prestaron servicio militar durante el conflicto armado interno.\n\nCambia el artículo 1 (para qué sirve la ley) y el 7 (cuándo y cómo se paga) y agrega puntos a los artículos 2 y 3."},
-"i6445": {"c": "Propone cambiar las reglas internas del Congreso", "r": "Propone reformar la Ley Orgánica del Organismo Legislativo (Decreto 63-94), en temas como las sesiones preparatorias, las vacantes en la Junta Directiva, la formación de comisiones, la salida de un bloque legislativo y la toma de posesión.\n\nTambién agrega un «Banco de Propuestas Ciudadanas» (artículo 109 Bis)."},
-"i6378": {"c": "Propone planes para prevenir y controlar los incendios forestales", "r": "Propone definir planes, programas y estrategias para prevenir y controlar los incendios forestales.\n\nLa exposición de motivos recuerda que Guatemala tenía 3.6 millones de hectáreas de bosque (33.3 % del territorio) según el mapa 2016-2020."},
-"i6410": {"c": "Propone reglas para el mantenimiento y dragado de los puertos", "r": "Propone un marco legal para planificar, ejecutar y vigilar el mantenimiento y el dragado de los puertos marítimos, con sus propios procedimientos de contratación y control.\n\nBusca reforzar la capacidad de los puertos y facilitar el comercio."}
+"d22-2026": {
+"c": "Quita impuestos a la gasolina y al diésel hasta fin de año",
+"r": "Esta ley quita temporalmente dos impuestos a la gasolina regular, la gasolina superior y el diésel: el de distribución de petróleo (IDP) y el IVA. Rige desde el día siguiente a su publicación hasta el 31 de diciembre de 2026.\n\nBusca frenar el golpe a los hogares y a la producción por el alza de precios: el barril de petróleo WTI pasó de unos US$64 en febrero a más de US$100 en septiembre de 2026."
+},
+"d11-2026": {
+"c": "Apoyo de emergencia por el alza del combustible",
+"r": "Responde a la subida internacional del petróleo, causada por tensiones entre países (como las del Estrecho de Ormuz), que encareció el diésel y las gasolinas.\n\nPropone un apoyo de emergencia para quienes compran esos combustibles."
+},
+"i6742": {
+"c": "Propone bajar por dos meses el precio del diésel y la gasolina",
+"r": "Propone un apoyo social temporal para que los consumidores paguen menos por el diésel y la gasolina, superior y regular. Duraría dos meses, contados desde la publicación de su reglamento.\n\nBusca aliviar el efecto de la subida internacional de los combustibles."
+},
+"i6844": {
+"c": "Propone precios de referencia para los combustibles",
+"r": "Propone una ley para estabilizar los precios de los combustibles y fijar precios de referencia de venta al consumidor final.\n\nSe presentó porque el costo del diésel subió desde febrero de 2026 por la inestabilidad del mercado mundial de energía."
+},
+"d3-2026": {
+"c": "Amplía en más de Q9 mil millones el presupuesto de 2026",
+"r": "Propone aumentar el Presupuesto General del Estado de 2026 (el aprobado en el Decreto 36-2024) en Q9,326,723,238.\n\nLa cifra se basa en la opinión técnica de Finanzas Públicas incluida en el expediente."
+},
+"i6702": {
+"c": "Evita que los fondos de los Consejos de Desarrollo se repartan en automático",
+"r": "Cambia dos leyes sobre los Consejos de Desarrollo, que manejan fondos para obras en los municipios. Quita reglas que podían crear «automatismos financieros», es decir, que el dinero se asignara casi solo, sin análisis.\n\nTambién pasa a la ley permanente la cooperación entre instituciones y los plazos para dar opiniones y avales a los proyectos."
+},
+"d6-2026": {
+"c": "Elimina el impuesto a las herencias y donaciones",
+"r": "Esta ley termina con el impuesto que se cobraba al recibir una herencia, un legado o una donación.\n\nSus autores dicen que ese impuesto cobraba más de una vez sobre el mismo patrimonio, recaudaba poco y obligaba a muchas familias a vender lo heredado para poder pagarlo."
+},
+"d5-2026": {
+"c": "Las municipalidades podrán volver a pedir préstamos al INFOM",
+"r": "Cambia el Código Municipal para que las municipalidades puedan pedir otra vez préstamos al Instituto de Fomento Municipal (INFOM).\n\nUna reforma anterior (Decreto 21-2025) había limitado esos préstamos a bancos supervisados por la Superintendencia de Bancos."
+},
+"i6337": {
+"c": "Propone salas de lactancia en las oficinas del Estado",
+"r": "Propone que las oficinas del Estado instalen salas de lactancia materna privadas, seguras y de fácil acceso para las trabajadoras. Las usuarias que esas oficinas atienden también podrían usarlas.\n\nSe apoya en la recomendación de la Organización Mundial de la Salud de dar solo leche materna hasta los seis meses de edad."
+},
+"d7-2026": {
+"c": "Nueva ley para la Procuraduría General de la Nación",
+"r": "Crea una ley propia para la Procuraduría General de la Nación, la institución que representa y defiende legalmente al Estado.\n\nLa exposición de motivos repasa cómo ha estado regulada en las constituciones desde 1945."
+},
+"d9-2026": {
+"c": "Fortalece las finanzas de las pensiones militares",
+"r": "Busca mejorar las finanzas del Régimen de Previsión Militar y dignificar lo que reciben jubilados, pensionados, viudas y huérfanos.\n\nExplica que el sistema perdió equilibrio: antes había 31 personas aportando por cada jubilado, y hoy la proporción es mucho menor."
+},
+"d8-2026": {
+"c": "Nombra a los magistrados de la Corte de Constitucionalidad 2026-2031",
+"r": "Forma la Corte de Constitucionalidad para el período 2026-2031 con los magistrados titulares y suplentes que eligieron la Corte Suprema, el Congreso, el Presidente con su Consejo de Ministros, la Universidad de San Carlos y el Colegio de Abogados."
+},
+"i6747": {
+"c": "Propone una medida temporal para ordenar la Universidad de San Carlos",
+"r": "Propone una medida excepcional, temporal y proporcional para restablecer el orden en la Universidad de San Carlos.\n\nSegún el texto, una crisis ha trabado el cambio de autoridades y afectado la calidad de la educación."
+},
+"i6355": {
+"c": "Propone proteger a adolescentes de relaciones con adultos",
+"r": "Propone reformar el artículo 173 del Código Penal para proteger a niñas, niños y adolescentes de las relaciones sexuales con adultos.\n\nBusca cerrar un vacío vigente desde 2009: hoy, si una persona apenas cumplió 14 años, el adulto podía argumentar que hubo consentimiento y no tener responsabilidad penal."
+},
+"i6347": {
+"c": "Propone una ley permanente contra los delitos por internet",
+"r": "Propone crear un marco permanente de ciberseguridad y de lucha contra los delitos digitales. Hoy solo existe un Comité Nacional temporal, creado por un acuerdo del gobierno.\n\nLa ley también permitiría que Guatemala se sume al Convenio de Budapest sobre ciberdelincuencia."
+},
+"d14-2026": {
+"c": "Crea el Día Nacional del Terapeuta Respiratorio",
+"r": "Declara el Día Nacional del Terapeuta Respiratorio, para reconocer su trabajo en la atención y recuperación de pacientes, sobre todo durante la pandemia de COVID-19."
+},
+"i6449": {
+"c": "Propone una ley para los alquileres comerciales",
+"r": "Propone una ley propia para el arrendamiento comercial, es decir, el alquiler de locales para negocios.\n\nLa exposición de motivos repasa cómo se ha regulado el contrato de arrendamiento en Guatemala desde el Código Civil de 1877."
+},
+"d13-2026": {
+"c": "Evita que el aumento del salario mínimo obligue a pagar Impuesto Sobre la Renta",
+"r": "Cambia la Ley de Actualización Tributaria para que, con el aumento del salario mínimo de 2026, los trabajadores con empleo formal no pasen a pagar Impuesto Sobre la Renta.\n\nSe argumenta que el salario es un ingreso para alimentarse y vivir, por lo que no debería gravarse."
+},
+"d12-2026": {
+"c": "Más dinero del Estado para los institutos por cooperativa",
+"r": "Cambia la ley de los Institutos de Educación por Cooperativa de Enseñanza: aumenta el dinero que el Estado les da y reorganiza su administración.\n\nTambién fija un mínimo y un máximo de estudiantes por grado."
+},
+"d16-2026": {
+"c": "Asegura el dinero para las Elecciones Generales 2027",
+"r": "Garantiza con anticipación el dinero que el Tribunal Supremo Electoral necesita para preparar las Elecciones Generales de 2027.\n\nEs necesario porque las compras y contrataciones tienen que empezar este mismo año fiscal."
+},
+"d15-2026": {
+"c": "Nueva ley contra el lavado de dinero y el financiamiento del terrorismo",
+"r": "Reúne y actualiza en una sola ley las normas para prevenir y sancionar el lavado de dinero y el financiamiento del terrorismo.\n\nEl Congreso la presentó como una ley que ordena todo el marco legal contra el lavado de dinero."
+},
+"d19-2026": {
+"c": "Amplía el plazo para pagar el impuesto de circulación de vehículos",
+"r": "Da más tiempo, de forma temporal, para pagar el Impuesto Sobre Circulación de Vehículos.\n\nBusca que las dificultades económicas de las personas no se conviertan en mora, multas e intereses."
+},
+"d18-2026": {
+"c": "Exonera del impuesto de inmuebles a quienes aún pagan su casa",
+"r": "Agrega a la ley del Impuesto Único Sobre Inmuebles una exoneración temporal: quienes todavía no terminan de pagar su vivienda no pagarían ese impuesto hasta completar sus pagos.\n\nTambién cambia las tasas del impuesto."
+},
+"d17-2026": {
+"c": "Garantiza que los beneficiarios del programa de ex militares cobren hasta el final",
+"r": "Cambia el Decreto 51-2022 para asegurar que las personas inscritas en el Programa de Desarrollo Integral reciban hasta el final el apoyo económico previsto.\n\nEl apoyo es de Q36,000 repartidos en tres años, a razón de Q1,000 al mes."
+},
+"d20-2026": {
+"c": "Crea el Sistema Portuario Nacional y una autoridad para los puertos",
+"r": "Establece el Sistema Portuario Nacional, dirigido por una Autoridad Portuaria Nacional, con reglas para las concesiones y las alianzas entre el Estado y empresas privadas.\n\nCrea un ente regulador que coordina a los puertos sin quitarles su autonomía."
+},
+"i6556": {
+"c": "Propone regular el teletrabajo",
+"r": "Propone regular el teletrabajo, que ni la Constitución ni el Código de Trabajo tratan de forma específica.\n\nBusca proteger los derechos de quienes trabajan a distancia y dar certeza a las empresas."
+},
+"i6518": {
+"c": "Propone cambiar artículos del Código Civil sobre bienes del matrimonio",
+"r": "Propone reformar artículos del Código Civil, de 1963, entre ellos los que tratan la disolución de los bienes que se comparten en una unión.\n\nSus autores dicen que esos artículos van contra la Constitución y los tratados de derechos humanos, en especial contra la igualdad entre mujeres y hombres."
+},
+"i6493": {
+"c": "Propone limitar la prisión preventiva",
+"r": "Propone reformar el Código Procesal Penal en lo que se refiere a la prisión preventiva, es decir, tener a alguien preso antes de que lo juzguen, y a otras medidas similares.\n\nBusca reducir el hacinamiento en las cárceles, reforzar que toda persona es inocente hasta que se pruebe lo contrario y ajustar la ley a normas internacionales de derechos humanos."
+},
+"i5378": {
+"c": "Propone aprobar la convención sobre los derechos de las personas mayores",
+"r": "Propone que Guatemala apruebe la Convención Interamericana sobre la Protección de los Derechos Humanos de las Personas Mayores, adoptada en 2015 en Washington, D.C.\n\nLa presentó el Organismo Ejecutivo en 2017."
+},
+"d3-2024": {
+"c": "Crea el Día Nacional de los Idiomas Indígenas",
+"r": "Declara el Día Nacional de los Idiomas Indígenas.\n\nSe apoya en la Declaración de la ONU sobre los Derechos de los Pueblos Indígenas, que reconoce su derecho a revivir, usar y transmitir sus lenguas."
+},
+"d9-2024": {
+"c": "Actualiza la ley del instituto de recreación de los trabajadores",
+"r": "Pone al día la ley que creó el Instituto de Recreación de los Trabajadores de la Empresa Privada de Guatemala, para que su estructura corresponda a la realidad actual.\n\nSu fin es dar recreación y descanso a los trabajadores del sector privado, y busca que lo cumpla con más eficiencia."
+},
+"d10-2024": {
+"c": "El Ministerio de Salud dirigirá la certificación de discapacidad",
+"r": "Cambia la Ley de Certificación Biopsicosocial de las Personas con Discapacidad para que el Ministerio de Salud Pública sea quien dirija el sistema nacional que certifica la discapacidad."
+},
+"d12-2024": {
+"c": "Cierra el Fondo de Desarrollo de la Telefonía (FONDETEL)",
+"r": "Disuelve y liquida el Fondo de Desarrollo de la Telefonía (FONDETEL), creado para financiar proyectos de telecomunicaciones en zonas rurales y de bajos ingresos.\n\nLa ley también fija cómo se hará ese cierre y la liquidación."
+},
+"d13-2024": {
+"c": "Amplía el plazo para pagar el impuesto de circulación de vehículos",
+"r": "Da más tiempo, de forma temporal, para pagar el Impuesto de Circulación de Vehículos.\n\nSe apoya en el principio de que cada quien paga según lo que puede y en el alza de precios posterior a la pandemia."
+},
+"d14-2024": {
+"c": "Amplía el programa de apoyo a ex militares de tropa",
+"r": "Extiende de forma temporal el Programa de Desarrollo Integral (Decreto 51-2022), que reconoce el servicio militar que prestó el personal de tropa durante el enfrentamiento armado interno.\n\nCon la ampliación, más personas podrían beneficiarse."
+},
+"d2-2024": {
+"c": "Propone una ley para las tarjetas de crédito",
+"r": "Propone una ley específica para las tarjetas de crédito.\n\nSu exposición de motivos parte de la idea de que el crédito es una relación de confianza entre quien lo da y quien lo recibe."
+},
+"i6403": {
+"c": "Propone ampliar el presupuesto de 2024",
+"r": "Propone ampliar el Presupuesto General de 2024 para dar dinero a varias entidades públicas y asegurar los bienes y servicios que entregan a la población."
+},
+"d17-2024": {
+"c": "Amplía el presupuesto de 2024 (segundo intento)",
+"r": "Vuelve a plantear la ampliación del Presupuesto General de 2024, porque el trámite de la iniciativa anterior (6403) quedó detenido por un amparo provisional de la Corte de Constitucionalidad.\n\nDa dinero a varias entidades públicas para asegurar los bienes y servicios que entregan a la población."
+},
+"d20-2024": {
+"c": "Exonera de impuestos las importaciones de ayuda antinarcóticos de EE. UU.",
+"r": "Libera del IVA, de los aranceles y de cualquier otro impuesto la importación de bienes que haga el Departamento de Estado de Estados Unidos, por medio de su sección de asuntos de narcóticos y aplicación de la ley.\n\nForma parte de la cooperación entre ambos países contra el narcotráfico."
+},
+"d19-2024": {
+"c": "Salud podrá dar de baja y desechar sus bienes inservibles",
+"r": "Permite al Ministerio de Salud Pública dar de baja y disponer de sus bienes muebles que ya no sirven.\n\nEl fin es liberar espacio en los edificios de sus unidades de servicio."
+},
+"i6015": {
+"c": "Propone una nueva ley para la Policía Nacional Civil",
+"r": "Propone una nueva Ley de la Policía Nacional Civil que reemplace a la de 1997 (Decreto 11-97), que según la Comisión de Gobernación ya no responde a las necesidades de la institución.\n\nRetoma la iniciativa 5410, de 2018."
+},
+"d24-2024": {
+"c": "Aprueba dos préstamos para la carretera CA-9 Norte (El Rancho–Teculután)",
+"r": "Aprueba dos financiamientos para el Programa de Desarrollo del Corredor CA-9 Norte, en el tramo El Rancho–Teculután.\n\nUno es un convenio de crédito de hasta US$100 millones con el Instituto de Crédito Oficial de España y el otro un préstamo de hasta US$75 millones con el Banco Interamericano de Desarrollo."
+},
+"d25-2024": {
+"c": "Garantiza vacunas contra las enfermedades que se pueden prevenir",
+"r": "Garantiza a la población protección contra las enfermedades que se previenen con vacunas, aplicando vacunas de calidad a todos o a los grupos de riesgo.\n\nSe apoya en el derecho constitucional a la salud y en el papel del Ministerio de Salud como ente rector."
+},
+"d27-2024": {
+"c": "Agiliza las obras de los Consejos de Desarrollo",
+"r": "Acelera la ejecución de obras de los Consejos de Desarrollo Urbano y Rural dando más flexibilidad al manejo del presupuesto y del dinero.\n\nTambién ordena a las entidades involucradas actualizar sus reglas de compras, contratos y registro de proyectos."
+},
+"i6404": {
+"c": "Propone crear el Fondo Verde Nacional",
+"r": "Propone crear el Fondo Verde Nacional para financiar programas, proyectos y estudios que mejoren, conserven y recuperen el medio ambiente.\n\nSe basa en el artículo 97 de la Constitución, que ordena proteger el ambiente."
+},
+"d33-2024": {
+"c": "Los vehículos del Estado tendrán que estar identificados",
+"r": "Cambia la Ley de Tránsito. La iniciativa principal (6063) busca que los vehículos del Estado estén identificados.\n\nAsí se define quién responde por quien los usa y la gente puede comprobar que se emplean en funciones oficiales."
+},
+"d35-2024": {
+"c": "Nueva ley de la Policía Nacional Civil",
+"r": "Crea una nueva Ley de la Policía Nacional Civil que reemplaza a la de 1997 (Decreto 11-97) y junta en un solo texto varios acuerdos del gobierno y de ministerios.\n\nRegula cómo se organiza y funciona la institución, la carrera policial, el manejo de recursos y los controles internos."
+},
+"d34-2024": {
+"c": "Cambia un artículo de la Ley contra la Delincuencia Organizada",
+"r": "Reforma el artículo 82 de la Ley contra la Delincuencia Organizada, que según sus autores no cumple normas constitucionales sobre derecho de defensa, seguridad jurídica y libertad de asociación de organizaciones políticas.\n\nBusca separar qué le toca decidir a los jueces ordinarios y qué al Tribunal Supremo Electoral."
+},
+"d36-2024": {
+"c": "Presupuesto del Estado para 2025",
+"r": "Fija cuánto dinero ingresará y gastará el Estado durante 2025: el Presupuesto General de Ingresos y Egresos."
+},
+"d1-2025": {
+"c": "Amplía el presupuesto de 2025",
+"r": "Amplía el Presupuesto General de 2025 para dar dinero a las entidades públicas y cumplir compromisos que ya están en otras leyes.\n\nTambién cambia el artículo 140 del presupuesto vigente para dar al Ministerio de Salud más facultades sobre su presupuesto de funcionamiento."
+},
+"d3-2025": {
+"c": "Atiende a los menores que visitan a personas presas",
+"r": "Cambia la Ley del Régimen Penitenciario y el Código Penal para atender a niñas, niños y adolescentes que visitan a personas presas, en un sistema con hacinamiento.\n\nA fines de 2023 había 23,582 personas presas para 6,842 plazas."
+},
+"d2-2025": {
+"c": "Actualiza el Código Penal",
+"r": "Propone poner al día el Código Penal para que siga siendo eficaz y justo ante los cambios sociales y tecnológicos.\n\nBusca evitar la impunidad y la falta de protección por normas que quedaron atrasadas."
+},
+"d4-2025": {
+"c": "Cambia el decreto del Día Nacional de la Comadrona",
+"r": "Modifica el decreto que declara el 19 de mayo como Día Nacional de la Comadrona Guatemalteca.\n\nSu exposición de motivos recuerda el Convenio 169 sobre pueblos indígenas, que pide organizar los servicios de salud junto con los pueblos y respetar sus prácticas tradicionales."
+},
+"d5-2025": {
+"c": "Crea el Día Nacional de la Biblia",
+"r": "Declara el primer sábado de agosto de cada año como Día Nacional de la Biblia.\n\nSe da en reconocimiento a su influencia histórica, espiritual y cultural en Guatemala."
+},
+"d6-2025": {
+"c": "Bono anual de riesgo para los Bomberos Voluntarios",
+"r": "Crea un Bono de Riesgo Anual para el personal permanente (renglón 011) del Benemérito Cuerpo Voluntario de Bomberos de Guatemala.\n\nSe da por los riesgos que enfrentan al atender emergencias."
+},
+"i5508": {
+"c": "Propone crear la Comisión Nacional Tripartita laboral",
+"r": "Propone crear por ley la Comisión Nacional Tripartita de Relaciones Laborales y Libertad Sindical.\n\nLa exposición de motivos recuerda que Guatemala es miembro fundador de la Organización Internacional del Trabajo, donde gobiernos, empleadores y trabajadores participan en igualdad."
+},
+"d8-2025": {
+"c": "Corrige la presidencia del Directorio en la Ley de Competencia",
+"r": "Cambia el artículo 30 de la Ley de Competencia (Decreto 32-2024) para eliminar la rotación de la presidencia del Directorio, porque ya está regulada en la reforma del artículo 43.\n\nBusca que los artículos de la ley no se contradigan."
+},
+"i6452": {
+"c": "Propone actualizar cuánto del sueldo no se puede embargar",
+"r": "Propone actualizar el artículo 96 del Código de Trabajo, de 1947, que fija los montos y porcentajes del salario que no se pueden embargar.\n\nSus autores dicen que esos montos quedaron atrasados frente al salario mínimo y al costo de vida de hoy."
+},
+"i6412": {
+"c": "Propone cambios al Código de Trabajo",
+"r": "Propone reformar el Código de Trabajo.\n\nSu exposición de motivos parte de la Declaración Universal de los Derechos Humanos y de la distancia entre los derechos laborales reconocidos y la realidad de quienes trabajan."
+},
+"d10-2025": {
+"c": "Cambia la Ley de Alimentación Escolar y la del IVA",
+"r": "Reforma la Ley de Alimentación Escolar y la Ley del IVA.\n\nParte de la obligación del Estado de cuidar la alimentación y nutrición adecuadas, sobre todo de la niñez y la adolescencia."
+},
+"d14-2025": {
+"c": "Podrás conservar tu número de celular al cambiar de compañía",
+"r": "Regula el derecho de las personas que usan teléfono celular a quedarse con su número cuando cambian de proveedor, con un proceso transparente, ágil y justo.\n\nSe argumenta que el número funciona como un identificador personal y que perderlo puede quitar oportunidades."
+},
+"d13-2025": {
+"c": "Cambia la Ley Orgánica del Presupuesto",
+"r": "Reforma la Ley Orgánica del Presupuesto, que regula el uso eficaz y eficiente del dinero público en todos los organismos y entidades del Estado."
+},
+"d12-2025": {
+"c": "Agiliza registrar a nombre del Estado los terrenos de las escuelas",
+"r": "Crea un procedimiento temporal para inscribir más rápido, a nombre del Estado, los inmuebles que usa el Ministerio de Educación y que no están registrados.\n\nAsí los centros educativos públicos tienen certeza legal y se puede invertir dinero público en su infraestructura."
+},
+"i6140": {
+"c": "Propone esterilizar perros y gatos en jornadas masivas",
+"r": "Propone ampliar lo que puede hacer la Unidad de Bienestar Animal para que realice jornadas masivas de esterilización y castración de perros y gatos.\n\nHoy solo puede esterilizar animales que le entregan, y únicamente cuando es estrictamente necesario."
+},
+"d19-2025": {
+"c": "Aprueba el acuerdo de vuelos con los Emiratos Árabes Unidos",
+"r": "Aprueba el acuerdo entre Guatemala y los Emiratos Árabes Unidos sobre servicios aéreos entre sus territorios y más allá. Se firmó en Antigua Guatemala el 11 de mayo de 2023.\n\nLo presentó el Organismo Ejecutivo."
+},
+"d18-2025": {
+"c": "Aprueba que Guatemala se sume al tratado de libre comercio con Corea",
+"r": "Aprueba el protocolo para que Guatemala se una al Tratado de Libre Comercio entre la República de Corea y las repúblicas de Centroamérica.\n\nLo presentó el Organismo Ejecutivo."
+},
+"d17-2025": {
+"c": "Agiliza la devolución de impuestos pagados de más",
+"r": "Busca acelerar la devolución de impuestos que se pagaron de más o por error.\n\nEl saldo registrado en la cuenta corriente de cada contribuyente podría usarse para la devolución general de impuestos, sin exclusiones."
+},
+"d16-2025": {
+"c": "Subsidio para reconstruir casas dañadas por sismos",
+"r": "Crea un subsidio temporal para reconstruir viviendas de familias que quedaron dañadas por sismos, en un país con mucha actividad sísmica.\n\nMenciona los sismos registrados desde el 8 de julio de 2025 en Guatemala, Escuintla, Sacatepéquez, Suchitepéquez, Baja Verapaz y Jutiapa."
+},
+"d15-2025": {
+"c": "Corrige el nombre de dos organizaciones en el presupuesto de 2025",
+"r": "Corrige el artículo 132 del Presupuesto de 2025 para escribir bien el nombre de dos organizaciones no gubernamentales que recibirían dinero del Ministerio de Desarrollo Social (renglón 435).\n\nAsí se asegura que los fondos aprobados lleguen a quienes corresponde."
+},
+"i6226": {
+"c": "Propone una ley para un instituto técnico industrial en Suchitepéquez",
+"r": "Propone una ley para el Instituto Técnico Industrial Georg Kerschensteiner, en Suchitepéquez, con el fin de regular su enseñanza técnica industrial.\n\nArgumenta que hay pocos institutos técnicos de nivel medio y que jóvenes del interior del país se van a la capital para estudiar."
+},
+"d26-2025": {
+"c": "Préstamo de hasta US$50 millones para modernizar las finanzas públicas",
+"r": "Aprueba un préstamo de hasta US$50 millones con el Banco Internacional de Reconstrucción y Fomento (BIRF) para el proyecto «Finanzas Públicas Inteligentes: gestión del gasto público basada en datos».\n\nLo ejecutará el Ministerio de Finanzas Públicas."
+},
+"d22-2025": {
+"c": "Préstamo del BID para mejorar la calidad del gasto social",
+"r": "Aprueba el contrato de préstamo 5479/OC-GU con el Banco Interamericano de Desarrollo para el «Programa de Apoyo a la Mejora de la Calidad del Gasto Social».\n\nEn el trámite se discutió junto con la iniciativa 6682, un préstamo del BID de hasta US$250 millones para llevar electricidad al área rural, a cargo del INDE."
+},
+"d21-2025": {
+"c": "Ordena cómo el Estado se une con empresas para construir obras",
+"r": "Cambia la Ley de Alianzas para el Desarrollo de Infraestructura Económica, que regula las obras que el Estado hace junto con empresas privadas. Aclara su objeto, amplía a qué se aplica y define cada etapa: planteamiento, priorización, licitación, adjudicación y ejecución.\n\nEl objetivo es dar más transparencia, eficiencia y sostenibilidad a esas alianzas."
+},
+"d20-2025": {
+"c": "Crea el Día de la Dignificación de las Mujeres Indígenas",
+"r": "Instituye el Día de la Dignificación de las Mujeres Indígenas, ante la discriminación y el racismo que persisten contra ellas.\n\nSe apoya en el Convenio 169 y en el Acuerdo sobre Identidad y Derechos de los Pueblos Indígenas."
+},
+"d27-2025": {
+"c": "Presupuesto del Estado para 2026",
+"r": "Fija cuánto dinero ingresará y gastará el Estado durante 2026.\n\nSegún su exposición de motivos, cuatro instituciones concentran el 77.2 % del monto: Obligaciones del Estado a Cargo del Tesoro (37.3 %), Ministerio de Educación (16.4 %), pago de la deuda pública (13.3 %) y Ministerio de Salud (10.1 %)."
+},
+"d25-2025": {
+"c": "Préstamo de hasta US$400 millones para carreteras rurales",
+"r": "Aprueba un préstamo de hasta US$400 millones con el Banco Internacional de Reconstrucción y Fomento (BIRF) para el Programa de Infraestructura Rural y Movilidad para el Buen Vivir.\n\nLo ejecutará el Ministerio de Comunicaciones, por medio de la Dirección General de Caminos, para desarrollar carreteras y reforzar a esa dirección."
+},
+"d24-2025": {
+"c": "Préstamo de hasta US$350 millones para la carretera CA-9 Norte (Teculután–Mayuelas)",
+"r": "Aprueba un contrato de préstamo de hasta US$350 millones con el Banco Interamericano de Desarrollo (BID) para el Programa de Desarrollo del Corredor CA-9 Norte, en el subtramo Teculután–Mayuelas.\n\nLo ejecutará el Ministerio de Comunicaciones, por medio de la Dirección General de Caminos."
+},
+"i6624": {
+"c": "Propone crear la Secretaría de Integridad Pública",
+"r": "Propone cambiar la Ley del Organismo Ejecutivo agregando el artículo 14 quater, sobre la Secretaría de Integridad Pública de la Presidencia.\n\nBusca unir esfuerzos entre instituciones y hacer más transparente la administración pública. La presentó el Organismo Ejecutivo."
+},
+"i6509": {
+"c": "Propone cambiar tres artículos de la Ley de Alimentación Escolar",
+"r": "Propone reformar tres artículos de la Ley de Alimentación Escolar: el 26 (qué contiene la alimentación escolar), el 31 (la Comisión Interinstitucional de Alimentación Escolar) y el 33 (el dinero que se asigna).\n\nEsa ley busca garantizar la alimentación en las escuelas y promover que la niñez y la adolescencia coman saludable."
+},
+"d7-2025": {
+"c": "Permite terminar las obras de los Consejos de Desarrollo que quedaron a medias",
+"r": "Asegura que continúen los proyectos de los Consejos de Desarrollo Urbano y Rural que se pagaban con asignaciones extraordinarias en 2024 (Decretos 17-2024 y 36-2024) y que no se lograron terminar ese año.\n\nLo hace mediante un mecanismo de fortalecimiento financiero."
+},
+"i6416": {
+"c": "Propone cambiar la ley del programa de apoyo a ex militares",
+"r": "Propone reformar el Decreto 51-2022 (Ley Temporal de Desarrollo Integral), que reconoce a quienes prestaron servicio militar durante el conflicto armado interno.\n\nCambia el artículo 1 (para qué sirve la ley) y el 7 (cuándo y cómo se paga) y agrega puntos a los artículos 2 y 3."
+},
+"i6445": {
+"c": "Propone cambiar las reglas internas del Congreso",
+"r": "Propone reformar la Ley Orgánica del Organismo Legislativo (Decreto 63-94), en temas como las sesiones preparatorias, las vacantes en la Junta Directiva, la formación de comisiones, la salida de un bloque legislativo y la toma de posesión.\n\nTambién agrega un «Banco de Propuestas Ciudadanas» (artículo 109 Bis)."
+},
+"i6378": {
+"c": "Propone planes para prevenir y controlar los incendios forestales",
+"r": "Propone definir planes, programas y estrategias para prevenir y controlar los incendios forestales.\n\nLa exposición de motivos recuerda que Guatemala tenía 3.6 millones de hectáreas de bosque (33.3 % del territorio) según el mapa 2016-2020."
+},
+"i6410": {
+"c": "Propone reglas para el mantenimiento y dragado de los puertos",
+"r": "Propone un marco legal para planificar, ejecutar y vigilar el mantenimiento y el dragado de los puertos marítimos, con sus propios procedimientos de contratación y control.\n\nBusca reforzar la capacidad de los puertos y facilitar el comercio."
+},
+"d30-2024": {
+"c": "Préstamos del BID para llevar electricidad a zonas rurales",
+"r": "Aprueba las negociaciones de dos préstamos con el Banco Interamericano de Desarrollo (BID), de hasta US$120 millones en total, para el Programa para la Infraestructura de Electrificación Rural (PIER).\n\nEl programa busca conectar a nuevos usuarios en zonas rurales construyendo redes de distribución eléctrica. La ley autoriza al Organismo Ejecutivo, por medio del Ministerio de Finanzas Públicas, a firmar los contratos."
+}
 }
