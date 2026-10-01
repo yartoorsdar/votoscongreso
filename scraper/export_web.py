@@ -56,6 +56,7 @@ ini_res = {n: re.sub(r"^Iniciativa( de ley)? que dispone( aprobar)?\s*", "", r, 
 ini_res.update({n: re.sub(r"^Iniciativa( de ley)? que dispone( aprobar)?\s*", "", t, flags=re.I) for n, t in c.execute("SELECT numero, titulo FROM iniciativa_detalle WHERE titulo<>''")})
 
 _data = pathlib.Path(__file__).resolve().parent.parent / "data"
+CLARO = json.loads((_data / "claro.json").read_text(encoding="utf-8")) if (_data / "claro.json").exists() else {}  # título y texto en lenguaje sencillo (los redacta Claude a partir de resumenes.json)
 RES = json.loads((_data / "resumenes.json").read_text(encoding="utf-8")) if (_data / "resumenes.json").exists() else {}
 PDFS = json.loads((_data / "pdf_origen.json").read_text(encoding="utf-8")) if (_data / "pdf_origen.json").exists() else {}
 
@@ -107,6 +108,9 @@ for k, L in leyes.items():
     res = RES.get(k) or next((RES[f"i{t}"] for t in ts if f"i{t}" in RES), None)
     if res:
         L["r"], L["rf"] = res["r"], res["f"]
+        cl = CLARO.get(k) or next((CLARO[f"i{t}"] for t in ts if f"i{t}" in CLARO), None)
+        if cl:
+            L["c"], L["r"] = cl["c"], cl["r"]
     L["pdf"] = [{"i": t, "u": PDFS[t]} for t in ts if t in PDFS]
     del L["ts"]
 
