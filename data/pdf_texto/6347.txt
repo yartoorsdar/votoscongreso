@@ -1,0 +1,1644 @@
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                                                                                0001
+
+                                CONGRESO DE LA REPUBLICA
+                                         GUATEMALA, C. A.
+
+                  DIRECCION LEGISLATIVA
+
+                          - CONTROL DE INICIATIVAS -
+
+                                                                        NUMERO DE REGISTRO
+
+                   6347
+
+\FECHA QUE CONOCIO EL PLENO: 05 DE MARZO DE 2024.
+
+INICIATIVA DE LEY PRESENTADA POR LOS REPRESENTANTES JOSE
+ PABLO MENDOZA FRANCO, CRISTIAN RODOLFO ALVAREZ Y ALVAREZ Y
+ GUSTAVO ADOLFO CRUZ MONTOYA.
+
+ INICIATIVA QUE DISPONE APROBAR LEY DE CIBERSEGURIDAD.
+
+ TRAMITE: PASE A LA COMISION DE ASUNTOS DE SEGURIDAD NACIONAL
+                   PARA SU ESTUDIO Y DICTAMEN CORRESPONDIENTE.
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                          CONGRESO
+
+                                                                                          X LEGISlATURA
+
+                                                                                         Guatemala, 27 de febrero de 2024
+
+                      Respetable
+                      Lie. Marvin Alvarado
+                      Encargado del despacho Direcci6n Legislativa
+                      Congreso de la Republica
+                      Su Despacho
+
+                       Es un gusto saludarle deseandole exitos en sus actividades diarias.
+                       Con fundamento en el articulo 174 de la Constituci6n Politica de la Republica de
+                       Guatemala y articulo 110 de la Ley Organica del Organismo Legislativo, hago
+                      entrega de la Iniciativa que propone aprobar la "LEY DE CIBERSEGURIDAD", para
+                       que en su oportunidad sea conocida por el .Honorable Pleno de este Alto Organismo
+                       y continue con el tramite constitucional respectiv~.
+
+                       Agradeciendo su fina atenci6n a la presente, suscribo la presente atentamente
+
+                                                               Diputado Jose Pablo Mendoza
+                                                                       Bloque Leglslativo
+
+                                                      Com prom iso, Renovaci6n Y Orden -CREO-
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                          CONGRESO
+
+                                    DE LAREPUBLICA
+
+                                                                                              X LE<iISlATUR A
+
+                                                                                           INICIATIVA DE LEY
+                                                  EXPOSICIQN DE MOTIVOS
+                    HONORABLE PLENO:
+                     La rapida evoluci6n que han experimentado las tecnologfas de informaci6n y
+
+                      comunicaci6n (TIC) ha transformado numerosos aspectos de la vida cotidiana de
+                      los guatemaltecos. Esto sumado a que un efecto colateral de la pandemia
+                      provocada por el virus COVID-19 fue la aceleraci6n de la transformaci6n digital,
+                      creando nuevos modelos de negocio digital. No obstante, a pesar de las
+                      oportunidades que estas tecnologfas presentan, tambiem ha traido consigo
+                      desafios significativos. Entre estos, destaca el vertiginoso aumento de diversos
+                      ciberdelitos, orquestados tanto por individuos como por organizaciones delictivas,
+                      quienes buscan lucrar a costa de la seguridad y el bienestar de los guatemaltecos
+                      y la seguridad de la infraestructura critica del Estado.
+
+                      Actualmente Guatemala se encuentra en una fase de transformaci6n digital e
+                       innovaci6n, esa aceleraci6n digital que vivimos, junto con la hiper conectividad nos
+                       lIeva a pensar en mejorar en aspectos como la gesti6n de las personas, procesos,
+                     tecnologia y la informaci6n, por 10 que hablar de ciberseguridad en la actualidad es
+
+                     reconocer la nuevas y mejores tecnicas, tacticas y herramientas para afectar a
+
+                       paises enteros, entidades, organizaciones, entre otros. Con las transformaciones
+                       tecnol6gicas, la ciberseguridad ha pasado de ser un mere aspecto tecnico para
+                       convertirse en un aspecto estrategico de las naciones, ante las posibles
+                       vulneraciones a derechos esenciales de los guatemaltecos, en particular aquellos
+                       vinculados a la privacidad, intimidad, protecci6n de datos y patrimonio personal.
+
+                      EI Estado de Guatemala se organiza para proteger a la persona y es responsable
+                       de garantizarle la vida, la libertad, la justicia, la seguridad, la paz y el desarrollo
+                       integral de la persona, como 10 establece la Constituci6n Politica de la Republica
+                       de Guatemala. Como norma superior, contempla un catalogo de derechos
+
+                                                                                              1
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                     CONCRESO
+
+                               DE LAREPUBLICA
+
+                                                                                                        X LEGISLATURA
+
+                      fundamentales, que garantiza las libertades de los ciudadanos y por tanto tambien
+                      se encuentra la obligatoriedad del Estado de garantizar y proteger a las personas
+                      ante cualquier amenaza 0 violacion, incluyendo ataques informaticos 0 cualquier
+                      tipo de amenaza 0 delito que se produzca en el ciberespacio.
+
+                      EI Articulo 4 de la Constitucion Politica de la Republica de Guatemala, establece el
+
+                   derecho fundamental de: "Libertad e igualdad. En Guatemala todos los seres
+                  humanos son libres e iguales en dignidad y derechos. EI hombre y la mujer,
+
+                    cualquiera que sea su estado civil, tienen iguales oportunidades y
+                      responsabilidades. Ninguna persona puede ser sometida a servidumbre ni a otra
+                      condici6n que menoscabe su dignidad. Los seres humanos deben guardar
+                     conducta fraternal entre si." Asimismo, el Articulo 5 establece: "Libertad de
+                      acci6n. Toda persona tiene derecho a hacer 10 que la ley no prohfbe; no esta
+                   obligada a acatar 6rdenes que no esten basadas en ley y emitidas conforme a ella.
+                      Tampoco podra ser perseguida ni molestada por sus opiniones 0 por actos que no
+                      imp/iquen infracci6n a la misma."
+
+                       Por 10 anterior, se logra establecer que la Constitucion Polftica de la Republica de
+                       Guatemala establece derechos y garantias fundamentales, que desarrolian los
+                       derechos humanos que p~r naturaleza cada persona tiene libertad de expresar y
+                       exigir. Por 10 que, el Estado debe organizarse para garantizar a los ciudadanos el
+                       ejercicio de estos y sobre todo un ejercicio libre de sus derechos a traves de todos
+                       los espacios de convivencia social, incluyendo el ciberespacio.
+
+                       Para garantizar una gobernanza en materia de ciberseguridad es preciso que el
+                       Estado de Guatemala establezca los tipos penales, asi como el debido proceso en
+                        materia de ciberdelitos para garantizar a los ciudadanos el cumplimiento de los
+                        preceptos constitucionales, asi como aquellos principios como el de celeridad,
+                        oralidad, inmediacion, publicidad, contradictorio y debido proceso, que descansan
+                        en la Constitucion.
+
+                                                                                              2
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                     CONCRESO
+
+                               DE LAREPUBLICA
+
+                                                                                                  X LEGISLATURA
+
+                    Ademas, en el Articulo 12 de la norma precitada: "Derecho de defensa. La
+
+                  defensa de la persona y sus derechos son inviolables. Nadie podra ser
+                  condenado, ni privado de sus derechos sin haber sido citado, oldo y vencido en
+                  proceso legal ante juez 0 tribunal competente y preestablecido. Ninguna persona
+
+                    puede ser juzgada por Tribunales Especia/es 0 secretos, ni por procedimientos
+                    que no esten preestablecidos /ega/mente.", y el Articulo 13 establece: "Motivos
+                    para auto de prisi6n. No podra dictarse auto de prisi6n, sin que preceda
+                    informaci6n de haberse cometido un de/ito y sin que concurran motivos racionales
+                     suficientes para creer que /a persona detenida /0 ha cometido 0 participado en el.
+                     Las autoridades policiales no podran presentar de oficio, ante los medios de
+                     comunicaci6n social, a ninguna persona que previamente no haya sido indagada
+                     por tribunal competente. "
+
+                     En virtud de esa obligatoriedad constitucional se debe establecer previamente los
+                     tipos penales, y una debida persecucion de los mismos, con la finalidad de
+                     establecer el bien comun, desde una percepci6n de justicia y de integridad de los
+                     principios y los Derechos Humanos; por ello , para evitar las amenazas y
+                      vulnerabilidades persistentes por ciberdelitos es inminente la creaci6n de los tipos
+                      penales relacionados, el fortalecimiento de las capacidades para el sector justicia
+                      para la prevencion, persecucion y sanci6n en materia de ciberseguridad.
+
+                      La tipificaci6n actual de los delitos informaticos contenidos en el Codigo Penal no
+                      responde a las modalidades de los ilicitos que se cometen a travEls de redes 0
+                      sistemas informaticos, muchos de ellos ya reconocidos en la legislacion
+                      internacional como por ejemplo la interceptacion ilicita, el abuso de dispositivos,
+                      entre otros. La ausencia de una legislacion especifica que tipifique los ciberdelitos
+                      se convierte en un aliciente a los ciberdelincuentes, quienes, sin lugar a duda,
+                      aprovechan las lagunas legales para actuar con impunidad.
+
+                                                                                         3
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                      CONGRESO
+
+                               DE LAREPUSLICA
+
+                                                                                                   X LEGISLATURA
+
+                     Siendo de importancia para el desarrollo integral y social de los ciudadanos el uso
+                    de la tecnologia, el Estado tiene la obligacion de brindar la proteccion de caracter
+                     penal y la creacion de un instrumento legal que active una respuesta institucional
+                     en la que debe colaborar el sector privado y las organizaciones internacionales,
+                     para que los usuarios puedan ejercer sus derechos constitucionales y realizar
+                     libremente y de manera segura sus actividades en internet 0 usando tecnologias
+                     de la informacion y las comunicaciones, con la seguridad que cuenten con una ley
+                     que responda a la complejidad de los avances tecnologicos en el ciberespacio.
+
+                     En marzo de 2018 el Estado de Guatemala aprobo la Estrategia Nacional de
+                     Seguridad Cibernetica, como primer paso para establecer directrices y objetivos
+                     basado en el Eje de Transformacion tecnologico planteado en la Politica Nacional
+                     de Seguridad, se constituye con la finalidad de establecer directrices y objetivos en
+                    materia de ciberseguridad para Guatemala, dado que las amenazas y ataques
+                    ciberneticos surgen y evolucionan por las diversas actividades que se desarrollan
+                     por la hiper conectividad en la que actualmente se encuentra el pais.
+
+                     Bajo la perspectiva de la gobernanza integra, la Estrategia Nacional de Seguridad
+                     Cibernetica, presenta cinco capitulos: Diagnostico Nacional sobre el Estado de la
+
+                   Seguridad Cibernetica en el Pais; Construccion de la Estrategia; Vision y
+
+                     Principios Generales; Ejes, Objetivos y Acciones; y Gobernanza de la Seguridad
+                     Cibernetica. Sin embargo, esta herramienta nacional encuentra hasta la fecha ,
+                     como limitante, la implementacion de las medidas de ciberseguridad, asi como
+                      una gestion integral a nivel central de Nacion para el combate a las amenazas.
+
+                      Considerando la creacion de un espacio de arliculacion de alto nivel, para dar
+                      seguimiento a politicas y estrategicas en materia de seguridad cibernetica. asi
+                      como forlalecer los mecanismos de colaboracion. cooperacion y coordinacion
+                      interinstitucional. se creo el Comite Nacional de Seguridad Cibernetica. mediante
+                      el Acuerdo Gubernativo 200-2021 del Presidente de la Republica de Guatemala.
+
+                                                                                                 4
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                     CONCRESO
+
+                               DE LAREPUBLICA
+
+                                                                                            X lECISlATURA
+
+                     Este Comite responde a la necesidad del Estado de contar con un espacio de alto
+                     nivel para la coordinacion en materia de ciberseguridad, sin embargo, su caracter
+                    temporal se contra pone con la necesidad permanente de gestion y control por
+                     parte del Estado en la materia.
+
+                     La legislacion actual no ha evolucionado al ritmo de las Tecnologias de la
+                     Informacion y las Comunicaciones, dejando un vado juridico ante los delitos
+                     digitales emergentes. En ese sentido, es imperativo adoptar las medidas
+                     legislativas que permitan al pais desarroliar politicas penales adecuadas para
+                     proteger a la sociedad frente a la ciberdelincuencia, conforme los estandares
+                     intemacionales, y estar en capacidad de cooperar con la comunidad internacional
+                     en la investigacion y enjuiciamiento de los ciberdelitos. Esto, a su vez, habilitara la
+                     participacion de Guatemala en tratados internacionales como el Convenio sobre la
+                     Ciberdelincuencia, hecho en Budapest, el 23 de noviembre de 2001 .
+
+                     Las ciberamenazas continuan evolucionando debido a la facilidad de acceso, bajo
+                     coste, alta rentabilidad y el crecimiento exponencial de las inteligencias artificiales,
+                     por medio del usa de las plataformas digitales para fines delictivos. Los metodos y
+                     sistemas de las tecnologias han evolucionado durante el tiempo; no obstante, la
+                     proteccion y control en los sistemas no van al mismo ritmo en dichos avances, por
+                     10 que, la falta de herramientas informaticas y conocimientos tecnicos, son
+                     aprovechados por ciberdelincuentes quienes se encuentran innovando y
+                      sofisticando sus ataques, cada vez con mayor impacto.
+
+                      Durante el primer cuatrimestre de dos mil veintitres, los ciberdelitos,
+                      particularmente el phishing\ experimentaron un aumento alarmante del 102% en
+                      comparacion con el mismo periodo en 2022. Asimismo, los fraudes relacionados
+                      con el robo de identidad crecieron un 90% de 2021 a 2022. A nivel global, se
+
+                              1 EI phishing es un ciberataque en el que los delincuentes intentan enganar a las personas para que revelen
+                            informacion confidencial, como contrasenas, numeros de tarjeta de c.-edito 0 informacion personal,
+                              haciendose pasar por entidades legitimas.
+
+                                                                                            5
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                      CONCiRESO
+
+                               DE LAREPUBLICA
+
+                                                                                                  j( LEGISLATURA
+
+                    estima que las perdidas en 2023 ocasionadas por ciberdelitos ascenderan a US
+                   $11.4 billones.
+
+                    Guatemala desafortunadamente, no ha sido ajena a los impactos que estas
+                    conductas delictivas producen . en el ana 2022 un ataque de este tipo (Phishing)
+                    afecto a miles de clientes del sistema financiero ocasionando millones de
+                    quetzales en perdidas. Esta tendencia ha inftuido directamente en el costo de las
+                    polizas de segura contra delitos ciberneticos, que han visto incrementos anuales
+                    del 150%, debido a la elevada probabilidad de suceso y la carencia de una
+                    legislacion adecuada.
+
+                    Entidades de Guatemala se ven afectadas por distintos incidentes ciberneticos.
+                    principalmente sectores que proveen servicios a la ciudadania. evidenciando la
+                    poca 0 nula respuesta y contencion a este tipo de ataques ante la exposicion de
+                    multiples vulnerabilidades tecnologicas e informacion sensible, que representa un
+                    impacto directo al pais ya que esto afecta la continuidad de operaciones y
+                    recuperacion ante desastres. Por 10 que se debe fortalecer las capacidades y
+                    acciones preventivas y reactivas de las instituciones del Estado; ademas, de
+                    buscar la coordinacion entre las mismas con el fin de gestionar el desarrollo de
+                    estrategias de ciberseguridad.
+
+                     las instituciones del sector publico, en su mayoria, cuentan con sistemas
+                     gubernamentales desactualizados, con bajo 0 nulo control en materia de
+                     ciberseguridad, ya que el pais aun no ha definido y establecido su infraestructura
+                     critica, tampoco provisto proteccion alguna a las mismas. Por 10 anterior, se ha
+                     evidenciado ciberataques a entidades gubernamentales, municipales y bancarias,
+                     como desfiguracion web y denegacion de servicios.
+
+                     A nivel nacional, los ciberdelitos mas denunciados por los usuarios son amenazas,
+                     estafa, robo, violacion a la intimidad sexual (ciberacoso), difamaciones, phishing,
+                     ransomware, malware, spyware, adware, venta de ilicitos, publicidad falsa , entre
+
+                                                                                             6
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                     CONCRESO
+
+                             DE LA REPUBLICA
+
+                                                                                            X LEGISL A TUR A
+
+                   otros. Por otro lado, se ha observado que empresas privadas, principalmente en el
+                   sector financiero, limitan informacion en relacion a ciberataques registrados en sus
+                   sistemas para evitar la percepcion de inseguridad y panico.
+
+                   Es importante mencionar que el problema de capacidades de las entidades
+                  gubernamentales radica en la falta de madurez y presupuesto para aumentar
+                  capacidades de equipos y personal y con ello poder minimizar este tipo de
+                    ciberataques. Es indispensable que, cada entidad defina los frameworks
+                   (directrices, reglas y herramientas) de ciberseguridad, asi como, la
+                   implementacion de programas y el aumento del nivel de madurez tecnico, tactico,
+
+                  operativo y estrategico.
+
+                    Es imprescindible impulsar las herramientas legales que faciliten la
+                   estandarizacion y homologacion de estrategias, a traves de la elaboraci6n de
+                   diagn6sticos que cuantifiquen y cualifiquen los riesgos y amenazas, asi como los
+                    avances en esta materia. Por ultimo, se ve limitada la comunicaci6n, coordinaci6n
+                    y trabajo entre entidades del sector publico, asi como las del sector privado,
+                    limitando el desarrollo en la ciberseguridad y en la confianza digital de los
+                    ciudadanos .
+
+                    Beneficios de impulsar una legislacion en ciberseguridad en Guatemala:
+
+                       · Clasificacion y protecci6n a infraestructuras criticas;
+                       · Tipificacion y persecucion de ciberdelitos;
+                         · Creaci6n de CSIRT-GT;
+                        · Prevenci6n, control y sistema de respuesta ante ciberdelitos;
+                        · Asesoramiento y reaccion ante ciberataques a instituciones privadas y/o
+
+                              publicas;
+                         · Fortalecimiento interinstitucional en materia de ciberseguridad;
+                         · Capacitacion del recurso humano dentro de las instituciones;
+
+                                                                                           7
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                     CONCRESO
+
+                               DE LAREPUBLICA
+
+                                                                                              X LEGISI,ATURA
+
+                         · Concientizacion social sobre la ciberseguridad .
+
+                    Una legislacion que aborde la materia de ciberseguridad, especialmente la
+                    tipificacion de ciberdelitos incrementa la capacidad para actuar y colaborar con
+                    olros paises en la persecucion de los delitos; ademas, ofrece beneficios para el
+
+                  pais en su economia, las instituciones y la sociedad en general al establecer un
+
+                     marco legal y regulatorio solido para proteger los sistemas y datos digitales. Una
+                     ley de ciberseguridad puede ayudar a prevenir actividades delictivas en linea,
+                    como el robe de datos, el fraude financiero y otros delitos ciberneticos, al
+                     establecer sanciones y consecuencias para los infractores.
+
+                     La presente legislacion pretende ademas establecer pautas para la recopilacion.
+                    almacenamiento y manejo seguro de datos personales, 10 que ayuda a proteger la
+                     privacidad de los individuos y reduce el riesgo de filtraciones de datos. Ademas,
+                     fomenta la confianza en el uso de las tecnologias y el comercio electronico, por
+                     ende, ayuda a la economia del pais al promover la inversion extranjera pues se
+                     cuenta con un marco solido de seguridad para datos, operaciones en linea e
+                     infraestructura.
+
+                     Latinoamerica se ha convertido en una region estrategica para los
+                     ciberdelincuentes debido a la falta de proteccion y actualizacion en los sistemas
+                     gUbernamentales, por 10 que, el cibercrimen ha incrementado sus actividades,
+                     principalmente en Brasil, Colombia, Mexico. Peru, Costa Rica y Chile, siendo el
+                     segundo continente con mas ciberataques despues de Europa.
+
+                    Actualmente uno de los principales retos y prioridades de Gobiernos, empresas y
+                      usuarios de la red. es la adopcion de estrategias y !eyes en ciberseguridad
+                      enfocadas en la proteccion de informacion. debido a que el cibercrimen cuenta con
+                      una alta profesionalizacion, estructuras organizativas sofisticadas y jerarquizadas
+                      junto con grandes recursos economicos y humanos. Entre los principales
+                      ciberataques que se registran a nivel internacional se encuentran los DDoS
+
+                                                                                              8
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                     CONCRESO
+
+                            DE LA REPUBLICA
+
+                                                                                           X LEGISLATVRA
+
+                     (ataque por denegacion de servicio), ransomware (secuestro de datos y archivos
+                     para exigir un pago de rescate), ingenieria social (manipulacion). phishing (robo de
+                     identidad), estafas, camparias de desinformacion, entre otras.
+
+                     Leyes en materia de ciberseguridad que poseen paises de Centroamerica y
+                      Mexico:
+
+                     Honduras: En 2020 el Congreso Nacional aprob6 la Ley Nacional de
+                     Ciberseguridad y Medidas de Proteccion Ante los Actos de Odio y Discriminacion
+                     en Internet y Redes Sociales, dicha ley es conocida como «ley de
+                     Ciberseguridad» .
+
+                          · Honduras tiene un Comite Interinstitucional de Ciberseguridad, pero el
+                              comite ha resultado de la accion del gobierno y no hay una garantia que los
+                              intereses de sociedad civil 0 consumidoras son representados.
+
+                     EI Salvador: En 2022 presento la ley de Ciberseguridad Ley Especial Contra los
+                     Delitos Informaticos y Conexos, cuyo objetivo es regular las actividades de
+                     prevencion, gestion y respuesta a las amenazas de incidentes de ciberseguridad y
+                     cualquier otro aspecto relacionado con el manejo de las infraestructuras criticas
+                      del pais.
+
+                          · EI proyecto define los conceptos de amenaza, ciberseguridad, evento
+                               informatico, incidente. indicadores de compromiso, infraestructuras criticas,
+                               operador. resiliencia. riesgo cibernetico. servicio esencial. sistema
+                               informatico y vulnerabilidad.
+
+                          · EI documento tambien proyecta la creacion de comisiones con los
+                               operadores de infraestructuras criticas que utilicen activ~s estrategicos, la
+                               creacion de equipos de respuesta para emergencias informaticas
+                               coordinador por un equipo de respuesta nacional para emergencias y la
+                               creacion de centros especializados de respuesta ante incidentes de
+
+                                                                                               9
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                      CONCiRESO
+
+                            DE LAREPUSLICA
+
+                                                                                                    X LEGISLATURA
+
+                              seguridad informatica (CSIRT) y Centros de Operaciones de Seguridad
+                              (SOC) en sectores como financiero, comercial, industrial y academico.
+                     Nicaragua: La Ley Especial de Ciberdelitos (Ley 1042), fue aprobada el 27 de
+                     octubre 2020 y entr6 en vigencia el 30 de diciembre de 2020.
+
+                          · La aprobaci6n de esta ley permite perseguir crimenes ciberneticos como el
+                              hackeo, roba de identidad 0 espionaje informatico.
+
+                     Costa Rica: En 2022 se impuls6 la Ley de Ciberseguridad de Costa Rica
+                     (EXPEDIENTE N.o 23.292)
+
+                          · Proteger la disponibilidad, integridad y confidencialidad de los sistemas de
+                               informaci6n, las redes y los datos que se generan, almacenan y transmiten
+                               par dichos sistemas y redes de todos los habitantes del pais.
+
+                      Panama: EI C6digo Penal de la Republica de Panama, aprobado mediante Ley 14
+                      del 18 de mayo de 2007, en su Titulo VIII, sobre los «Delitos contra la Seguridad
+                      Juridica de los Medios Electr6nicos» regula los delitos contra la seguridad
+                      informatica. Del articulo 289 al 292 regula las siguientes conductas delictivas y sus
+                      respectivas penas: a) ingresar 0 utilizar de bases de datos, red 0 sistemas
+                      informaticos; y. b) apoderar. copiar. utilizar 0 modificar datos en transito 0
+                      contenidos en bases de datos 0 sistemas informaticos. 0 interferir. interceptar.
+                      obstaculizar 0 impedir la transmisi6n. Ademas. determina ciertas conductas como
+                      circunstancias agravantes que aumentan la pena de prisi6n.
+
+                           · No cuenta con una ley especializada en ciberseguridad. pero contiene
+                               tipificado cierto tipo de delitos en su c6digo penal.
+
+                      Mexico: Cuenta con la ley vigente denominada Ley Federal de Protecci6n de
+                      Datos Personales en Posesi6n de los Particulares y algunos delitos ciberneticos
+
+                                                                                        10
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                     CONCRESO
+
+                               DE LAREPUBLICA
+
+                                                                                                   X LEGISLATURA
+
+en el codigo penal. Sin embargo, el diputado Javier Joaquin Lopez Casarin en
+2023 presento la Iniciativa de Ley Federal de Ciberseguridad.
+
+·  Tiene como objetivo aumentar la seguridad cibernetica bajo un
+
+   esquema de corresponsabilidad, prevencion, combate y persecucion
+
+   de los ciberdelitos, a su vez la proteccion de datos personales y el
+
+   respeto a los derechos humanos.
+
+·  Asimismo, crear un marco juridico y operativo para nuevas
+
+   autoridades en ciberseguridad y la definicion de delitos,
+
+   homologacion con las previsiones en el Convenio de Budapest.
+
+La Asamblea de las Naciones Unidas ha exhortado a los Estados a promover y
+facilitar el acceso a Internet y la cooperacion internacional encaminadas al
+desarrollo de los medios de comunicaciones y los servicios de informacion y
+comunicacion, por la importancia de Internet como instrumento para el desarrollo y
+para el ejercicio de los derechos humanos.
+
+La presente iniciativa considera que el ordenamiento juridico guatemalteco debe
+responder a los avances de las tecnologias de la informacion y las
+comunicaciones, correspondiendo al Estado crear la legislacion, especial al ambito
+de actuacion, que defina las conductas delictivas, aplicando su poder coercitivo,
+con 10 cual se pueda garantizar, prevenir, la violacion y vulneracion de derechos y
+bienes juridicos.
+
+A traves de un cuerpo normativo complementario, que proteja y resguarde los
+datos personales, la intimidad informatica, los datos comerciales, bancarios y
+
+financieros; la confidencialidad, la integridad y disponibilidad de la informacion y de
+
+los datos, contenidos en sistemas informaticos 0 sistemas que empleen
+tecnologias de la informacion y las comunicaciones; asi como el resguardo y la
+integracion de los procedimientos que garanticen el estado de derecho y debido
+
+                                                                 11
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                     CONCRESO
+
+                             DE LA REPUBLICA
+
+                                                                                                        X LEGISLATURA
+
+                   proceso, estableciendo las funciones y competenci!!s neces!!rias de las en\idades
+                    del sector justicia y administrativas; as! como normas que favorecen la
+                    cooperacion internacional en la materia de ciberseguridad.
+                    Siendo el objeto de esta la tipificacion de conductas delictivas, para prevenir,
+                   erradicar y sancionar los ciberdelitos. Velar por el desarrollo de las capacidades de
+                   Ciberseguridad y Ciberdefensa. As! mismo, se estipulan reg las procesales
+                     necesarias para incorporar los medios de prueba digitales que permitan la
+                    obtencion de evidencias y pruebas electronicas en el proceso penal, para una
+                    investigacion eficaz y la cooperacion interinstitucional e internacional en la materia.
+
+                      DIPUTADOS PONENTES:
+
+                                                                                12
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                          CONGRESO
+                                                                                                                   ~ .-=-===--::"':~~
+
+                                    DE L\REPUBLICA
+
+                                                                                             X LEGllOLATUR A
+
+                                                       DECRETO NUMERO -2024
+                                       EL CONGRESO DE LA REPUBLICA DE GUATEMALA
+
+                                                                CONSIDERANDO:
+                     Que es deber constitucional del Estado garantizar a los habitantes de la Republica
+                     la libertad, la justicia y el desarrollo integral de la persona entre otros deberes,
+                      para 10 cual el Estado debe garantizar la seguridad en el uso de las tecnologias de
+
+                   la informacion y las comunicaciones, en el comercio electronico y del gobierno
+
+                     electron ico , velando por el derecho a la privacidad, el derecho a la libertad de
+                     expresion, el derecho al secreto de las comunicaciones y el derecho a la libertad
+                      informatica.
+
+                                                                CONSIDERANDO:
+                      Que la Asamblea de las Naciones Unidas ha exhortado a los Estados a promover
+                    y facilitar el acceso a Internet y la cooperacion internacional encaminadas al
+
+                   desarrollo de los medios de comunicaciones y los servicios de informaci6n y
+
+                     comunicacion, por la importancia de Internet como instrumento para el desarrollo y
+                      para el ejercicio de los derechos humanos.
+
+                                                                 CONSIDERANDO:
+                      Que el ordenamiento juridico guatemalteco debe responder a los avances de las
+
+                    tecnologias de la informacion y las comunicaciones, correspondiendo al Estado
+
+                      crear la legislacion, especial al ambito de actuacion, que defina las conductas
+                      delictivas, aplicando su poder coercitivo, con 10 cual se pueda garantizar, prevenir,
+
+                   la violacion y vulneracion de derechos y bienes juridicos. A traves de un cuerpo
+
+                      normativo complementario, que proteja y resguarde los datos personales, la
+                     intimidad informatica, los datos comerciales, bancarios y finanCieros; la
+                       confidencialidad, la integridad y disponibilidad de la informacion y de los datos,
+                       contenidos en sistemas informaticos 0 sistemas que empleen tecnologias de la
+
+                                                                                  13
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                          CONGRESO
+
+                                   DE LAREPUBLICA
+
+                                                                                               X l.EvlSlATURA
+
+                    informacion y las comunicaciones; asi como el resguardo y la integraciOn de los
+                    procedimientos que garanticen el estado de derecho y debido proceso,
+                    estableciendo las funciones y competencias necesarias de las entidades del sector
+                    justicia y administrativas; asi como normas que favorecen la cooperacion
+                    internacional en la materia de ciberseguridad y ciberdefensa.
+
+                                                                     PORTANTO,
+                     En ejercicio de las atribuciones que Ie asigna el articulo 171 inciso a) de la
+                     Constituci6n Politica de la Republica de Guatemala,
+
+                                                                      DECRETA:
+                     la siguiente:
+
+                                             "LEY DE CIBERSEGURIDAD"
+
+                                                                        TITULO I
+                                DISPOSICIONES GENERALES Y ELEMENTOS CONCEPTUALES
+
+                                                                      CAPiTULO I
+                                                   OBJETO Y AMBITOS DE APLICACION
+
+                     Articulo 1. Objeto de la ley. la presente ley tiene por objeto desarrollar las
+                     capacidades de ciberseguridad y ciberdefensa; as! como la tipificaci6n de
+                     conductas delictivas, para prevenir erradicar y sancionar los ciberdelitos.
+
+                     As! mismo, se estipulan reglas procesales necesarias para incorporar los medios
+                      de prueba digitales que permitan la obtenci6n de evidencias y pruebas
+                      electr6nicas en el proceso penal, para una investigaci6n eficaz y la cooperaci6n
+                      interinstitucional e internacional en la materia.
+
+                                                                                  14
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                          CONGRESO
+
+                                     DE LA REPUBLICA
+
+                                                                                                     X LEGISLATURA
+
+                    Articulo 2. Ambito de aplicaciOn. EI ambito de aplicaci6n de la presente ley, 10
+                     constituye todo el territorio de la Republica de Guatemala, siendo su aplicaci6n
+                     extensiva a toda persona individual nacional 0 extranjera, que cometa un hecho
+                     sancionado como delito, en cualquiera de las condiciones 0 circunstancias
+                     siguientes:
+
+                          a) Cuando el sujeto activo origina, ordena 0 ejecuta la acci6n delictiva dentro
+                              del territorio nacional;
+
+                          b) Cuando el sujeto activo origina, ordena 0 ejecuta la acci6n delictiva desde
+                              el extranjero, produciendo su consumaci6n 0 sus efectos dentro del
+                              territorio nacional;
+
+                          c) Cuando el origen 0 los efectos de la acci6n se produzca en el extranjero,
+                              utilizando medios que se encuentran en el territorio nacional; y,
+
+                          d) Cuando se materialice 0 evidencie cualquier tipo de participacion desde el
+                              territorio guatemalteco, con un acto sin el cual no se hubiere podido
+                              cometer la accion delictiva.
+
+                     Se reconoce el ciberespacio como un medio para la comision de los delilos
+                     tipiflCados en la presente ley . Para los efectos de extradici6n se estara a 10
+                      regulado en el articulo 8 del Decreto Numero 17-73 del Congreso de la Republica,
+                      C6digo Penal.
+
+                     Articulo 3. Responsabilidad penal de las personas jurldicas y sus
+                      representantes. La responsabilidad de las personas juridicas y sus
+                     representantes debera sujetarse a 10 dispuesto en el articulo 38 del Decreto
+                      Numero 17-73 del Congreso de la Republica, C6digo Penal.
+
+                      Esta responsabilidad no es aplicable a proveedores de servicios, tal y como se
+                      define en el articulo 5 de esta ley, a condici6n de que: no hayan iniciado por si
+                      mismos la transmision, no hayan seleccionado al destinatario de la transmision, no
+                      hubieren seleccionado ni modificado la informaci6n contenida en la transmisi6n y
+
+                                                                                15
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                          CONGRESO
+
+                                   DE LA REPUBLICA
+
+                                                                                                X LE (;ISlATURA
+
+                     colaboren con los operadores de justicia, en el aseguramiento 0 conservacion de
+                     datos informaticos concretos 0 especificos.
+
+                    Articulo 4. Accion publica. Los delitos regulados en la presente ley son de
+                     Accion Publica.
+
+                                                                 CAPiTULO II
+                                                                 DEFINICIONES
+                    Articulo 5. Ademas de las definiciones contenidas en la Ley para el
+                     Reconocimiento de las Comunicaciones y Firmas Electr6nicas, Decreto 47-2008
+                     del Congreso de la Republica, y para los efectos de la presente ley, se entendera
+
+                                      p~r:
+
+                          a) Ciberamena;ta: Circunstancia, situaci6n, evento 0 acto con el potencial de
+                              convertirse en un ciberataque
+
+                          b) Ciberataque: Evento con la intencion de causar dan~ en uno 0 varios
+                               activ~s en el ciberespacio.
+
+                          c) Ciberdefensa: Conjunto de acciones, garantias, tecnicas, tacticas,
+                               operacionales y politicas, desarrolladas p~r equipos de respuesta que
+                               integran el Centro de Seguridad Interinstitucional de Respuesta Tecnica
+                               ante Incidentes Informaticos de Guatemala (CSIRT-GT), con el fin de
+                               preservar, proteger 0 restablecer la infraestructura critica nacional de
+                               ataques ciberneticos provocados por entes 0 estados antag6nicos al Estado
+                               de Guatemala, que buscan debilitar el poder nacional.
+
+                           d) Ciberdelincuencia: Actividades delictivas de alcance nacional 0
+                               trasnaciona l, realizadas a traves de sistemas informaticos 0 sistemas que
+                               utilicen las tecnologias de la informacion y las comunicaciones, que tiene
+                               como objeto lesionar bienes 0 derechos de la victima.
+
+                                                                                         16
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                          CONGRESO
+
+                                     DE LA REPUBLICA
+
+                                                                                                         X L E GISLATUR A
+
+                          e) Ciberdelitos: Conductas tipicas, antijuridicas, culpables y punibles que
+                              utilizan los sistemas 0 tecnologias de la informaci6n y las comunicaciones
+                              con el objeto de lesionar bienes 0 derechos de la victima.
+
+                          f) Ciberentomo: Termino que se refiere e incluye a usuarios, redes,
+                              dispositivos, software, procesos, informaci6n almacenada . 0 que circula,
+                              aplicaciones, servicios y sistemas que estan conectados directa 0
+                              indirectamente a redes de comunicaciones 0 sistemas de informaci6n
+                              electr6nicos .
+
+                          g) Ciberespacio: Consiste en los sistemas de informaci6n, infraestructuras
+                              tecnol6gicas, bases de datos, redes, datos 0 elementos de la instituci6n
+                               gestora de infraestructuras criticas, que estim interconectados a Intemet 0 a
+                               otra red externa a dicha instituci6n.
+
+                          h) Ciberseguridad: Conjunto de herramientas, politicas, conceptos y
+                               salvaguardas de seguridad, directrices, metodos de gesti6n de riesgos,
+                               acciones, formaci6n, practicas idoneas, seguros y tecnologias que pueden
+                               utilizarse para preservar la confidencialidad, integridad y disponibilidad de
+                               los activos de una organizacion y los usuarios contra los riesgos existentes
+                               en el Ciberentorno y Ciberespacio.
+
+                           i) Confidencialidad: Constituye un atributo de la informaci6n para prevenir su
+                               divulgaci6n a personas 0 usuarios no autorizados, garantizando el acceso a
+                               quien este previamente autorizado.
+
+                           j) Datos informaticos: Toda representaci6n de hechos, instrucciones,
+                               caracteres, 0 conceptos expresados de cualquier forma que se preste a
+                               tratamiento informatico, incluidos los programas disei'\ados para que un
+                               sistema informatico ejecute una funcion .
+
+                           k) Datos de TrAflco: Designa todos los datos que tienen relaci6n con una
+                                comunicaci6n por medio de un sistema informatico, producidos por este
+                                ultimo, en cuanto al elemento de la cadena de comunicaci6n, indicado el
+
+                                                                                     17
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                          CONGRESO
+
+                                   DE LA REPUBLICA
+
+                                                                                                   X LE(;ISLATVRA
+
+                            origen, destin~, itinerario, horl!, fecha, tamai\o, y Ia duracion de la
+                             comunicacion 0 el tipo de servicio subyacente.
+                        I) Disponibllidad: Constituye un atributo de la informacion para garantizar
+                             que esta se encuentre disponible para quien tiene la autorizacion de
+                             acceder a ella, sean personas, procesos 0 aplicaciones en cualquier
+                             momento.
+                        m) Disposltlvo: Es un objeto 0 aparato electronico disei\ado para cumplir una
+                             funcion especifica 0 desempei\ar una tarea determinada.
+                        n) Dispositivos Perifericos: Son todos aquellos dispositivos que se conectan
+                             al CPU (Unidad Central de Procesamiento) para ai\adir funciones u
+                             operaciones al sistema, pero que no forman parte permanente de este, a
+                             travEls de los cuales existe una comunicacion entre Ia computadora y el
+                             exterior.
+                         0) Equlpo de Respuesta a Incidentes de Seguridad InformAtica: Equipo
+                             multidisciplinario de profesionales que actuara ante la existencia de un
+                             incidente cibernetico, con el objeto de contener y mitigar el impacto, asi
+                             como promover los procesos de recuperacion y resiliencia.
+                         p) Incidente cibemetlco: Ciberataque que vulnero de forma individual 0
+                             conjunta la confidencialidad, integridad y/o disponibilidad de Ia informacion.
+                         q) Ingenieria social: Tecnicas que pretenden engai\ar a las personas para
+                              que revelen informacion 0 realicen ciertas aCCiones, con el objetivo de
+                              obtener acceso a informaci6n confidencial no autorizada 0 cometer
+                              cualquier ilicito.
+                         r) Infraestructura critica: Infraestructura critica: Se refiere a los activ~s,
+                              sistemas y servicios que son esenciales para el funcionamiento de un pars
+                              o sociedad en su conjunto.
+                          s) Integridad: Constituye un atributo de la informaci6n para asegurar que
+                              esta, al almacenarse, 0 al ser trasladada 0 transmitida, no sea modificada 0
+
+                              alterada de ninguna forma no autorizada.
+                                                                               18
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                          CONCRESO
+
+                                   DE LAREPUBLICA
+
+                                                                                                   X LEGI5LATURA
+
+                         t) Internet: Conjunto descentralizado de redes de comunicacion
+                              interconectadas que utilizan el protocolo de control de transporte y el
+                              protocolo de internet, segun sus siglas en ingles: TCP/IP; garantizando que
+                              las redes fisicas heterogeneas que la componen funcionen como una red
+                              logica unica de alcance mundial.
+
+                          u) Programa Informatico: Conjunto de instrucciones 0 c6digo escrito en un
+                              lenguaje de programacion que permite a una computadora realizar tareas
+                              especlficas.
+
+                          v) Proveedor de servicios: Son todas aquellas entidades publicas 0 privadas
+                              que ofrecen sus servicios a los usuarios, con la posibilidad de comunicarse
+                              a traves de un sistema informatico. ASimismo, cualquier otra entidad que
+                               procese 0 almacene datos informaticos para ese servicio de comunicacion
+                              o sus usuarios.
+
+                          w) Sistema informatico: Dispositivo aislado 0 conjunto de dispositivos
+                               interconectados 0 relacionados entre Sl, cuya funci6n 0 la de alguno de sus
+                               elementos sea el tratamiento automatizado de datos en la ejecuci6n de un
+                               programa.
+
+                          x) Sistemas Centrales: Comprende los sistemas operativ~s, bases de datos,
+                               protocolos, todos los elementos de hardware y software que existen entre la
+                               capa de red y la de aplicaci6n, que son fundamentales y esenciales en un
+                               sistema informatico.
+
+                           y) Vulnerabilldad cibernetica: debilidad de uno 0 varios activ~s en el
+                               ciberespacio 0 control que puede ser explotado por una ciberamenaza.
+
+                          z) Tecnologias de la informaci6n y las comunlcaclones (TIC's): Rama de
+                               la tecnologia que se dedica al estudio, aplicaci6n y procesamiento de
+                               informacion, 10 cual involucra Ia obtenci6n, creacion, almacenamiento,
+                               administraci6n, modificaci6n, manejo, movimiento, control, visualizaci6n ,
+                               distribucion, proteccion, procesamiento, transmisi6n y recuperacion de
+                               informacion, intercambio, transmision 0 recepci6n de informacion en forma
+
+                                                                                            19
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                          CONGRESO
+
+                                   DE LA REPUBLICA
+
+                                                                                               X lEGISlATURA
+
+                              automatica, asi como el desarrollo y uso de equipos y programas,
+                              cualesquiera de sus componentes y todos los procedimientos vinculados
+                              con el procesamiento de informacion.
+
+                     En cuanto al reconocimiento y definiciOn de otros terminos tecnicos que tengan
+                     relacion con las disposiciones de la presente ley, se aplicaran las definiciones y
+                     terminologia internacionalmente aceptadas, incluyendo en 10 que fuere aplicable,
+                     aquellas contenidas en la Ley para el Reconocimiento de las Comunicaciones y
+                      Firmas electronicas.
+
+                      Articulo 6. Infraestructuras Crfticas. EI Organismo Ejecutivo por conducto del
+                      Ministerio de la Defensa, tomando en consideracion estandares internacionales y
+                      mejores practicas en la materia, elaborara el Catalogo de Infraestructuras Criticas
+                      que debera someter a aprobacion del Consejo Nacional de Seguridad y publicarlo
+                      en el diario oficial; ademas, debera actualizarlo cuando sea necesario y, como
+                      minima una vez al ano.
+
+                      Las entidades publicas 0 privadas que tengan a su cargo la gestion de
+                      infraestructuras criticas deberan contar con un equipo de respuesta a incidentes
+                      inforrnaticos registrado ante CSIRT-GT.
+
+                                                                       TiTULO II
+                                                                   CIBERDELITOS
+
+                                                                     CAPiTULO I
+                                   DELITOS CONTRA lA CONFIDENCIALIDAD, INTEGRIDAD Y
+                      DISPONIBILIDAD DE lOS DATOS Y SISTEMAS INFORMATICOS 0 SISTEMAS
+                                   QUE UTILICEN TECNOlOGIAS DE lA INFORMACION Y lAS
+
+                                                                COMUNICACIONES
+
+                                                                                          20
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                          CONCRESO
+
+                                    DE LAREPUBLICA
+
+                                                                                                     X LEGISLATURA
+
+                     Articu lo 7. Acceso iliclto. Comete el delito de accesa ilicito quien accediere de
+                     forma deliberada e ilegftima, a todo 0 parte de un sistema informatico 0 sistema
+
+                  que utilice tecnologfas de la informaci6n y las comunicaciones, en cualquiera de
+
+                     los casas siguientes:
+
+                       a) Cuando el acceso se realice infringiendo medidas de seguridad; y,
+
+                          b) Cuando el acceso se realice con la intenci6n de obtener datos informaticos
+                              o cualquier intenci6n delictiva.
+
+                     AI responsable de este delito se Ie impondra una pena de prisi6n de cuatro a seis
+                    ailos y multa de veinte a doscientos salarios mfnimos mensuales vigentes para
+                     actividades no agrfcolas.
+
+                     Articulo 8. Interceptacl6n ilicita. Comete el delito de interceptaci6n ilfcita quien
+                     intercepte de forma deliberada, ilegitima 0 sin la autOrilaci6n debida por cualquier
+                     medio 0 mediante el usa de ingenieria social, datos informaticos en transmisiones
+                     restringidas, dirigidas u originadas en un sistema que utilice tecnologias de la
+                    informacion y las comunicaciones, incluidas las emisiones electromagneticas
+                      provenientes 0 efectuadas dentro del mismo, que transporte dichos datos
+                      informaticos, al responsable de este delito se Ie impondra una pena de prisiOn de
+                    seis a diel alios y multa desde cien a doscientos salarios minimos mensuales
+                      vigentes para actividades no agricolas.
+
+                      La pena se aumentara en una tercera parte, cuando la interceptaci6n se cometa
+                      desde un sistema que utilice tecnologias de la informaci6n y las comunicaciones,
+                      conectado a otro sistema de cualquier naturaleza 0 si el hecho es cometido por
+                      funcionario 0 empleado publico.
+
+                      Articulo 9. Ataque a la integridad de los datos infonm\ticos. Comete el delito
+                      de ataque a la integridad de los datos informaticos:
+
+                                                                             21
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                     CONGRESO
+
+                               DE LAREPUBLICA
+
+                                                                                                    X LEG ISLATU RA
+
+                           a) Ouien, de forma deliberada, sin autorizacion 0 excediendo la que posea, sin
+                                permiso 0 consentimiento legalmente reconocido daiiare, borrare,
+                                deteriorare, modificare, alterare 0 suprimiere datos 0 registros informaticos,
+
+                             al responsable se Ie impondra una pena de prision de cinco a siete aiios y
+
+                                multa de cien a doscientos cincuenta salarios minimos mensuales vigentes
+                                para actividades no agricolas; y,
+
+                           b) Ouien, cometa los actos descritos en el parrafo anterior con datos
+                                informaticos relacionados con: actividades comerciales, financieras, activos
+                                o pasivos bancarios, con los estados contables 0 situaci6n patrimonial de
+                                personas fisicas ylo juridicas, al responsable se Ie impondra una pena de
+
+                            prision sera de seis a ocho aiios y multa de doscientos a quinientos salarios
+
+                                minimos mensuales vigentes para actividades no agricolas.
+
+                      Articulo 10. Ataque a la integridad del sistema infonnatico. Comete el delito
+                       de ataque a la integridad del sistema informatico quien:
+
+                            a) De forma deliberada, sin autorizacion 0 excediendo la que posea, sin
+                                permiso 0 consentimiento legalmente reconocido, obstaculice 0 perturbe el
+                                funcionamiento de un sistema informatico 0 sistemas que utilicen
+                               tecnologias de la informaci6n y las comunicaciones mediante la
+                                 introduccion, transmision, daiio, borrado, deterioro, modificaci6n, alteracion
+                                o supresion de datos informaticos ylo registros informaticos, al responsable
+
+                              de este delito se Ie impondra una pena de prision de seis a nueve aiios y
+
+                                 multa de cien a trescientos salarios minimos mensuales vigentes para
+
+                              actividades no agricolas; y,
+                           b) Realice las acciones descritas en la literal anterior y se tratare de un
+
+                               sistema informatico 0 sistema que utilice las tecnologias de la informacion y
+                                 las comunicaciones, referente 0 conectado a: infraestructuras criticas,
+                                 servicios publicos, registros oficiales, registros bancarios, registros
+
+                                                                                  22
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                      CONCRESO
+
+                               DE LAREPUBLICA
+
+                                                                                               X LE G I S L A TU RA
+
+                               financieros, registros tributarios 0 cualquier sistema protegido, al
+                               responsable de este delito se Ie impondra una pena de prision de siete a
+                               diez anos y multa de cien a qUinientos salarios mfnimos vigentes para
+                               actividades no agrfcolas.
+
+                                                                        CAPiTULO II
+                                                              DELITOS INFORMATICOS
+                      Articulo 11. Falslficaci6n informatica. Comete el delito de falsificacion
+                      informatica quien, de forma deliberada, sin autorizacion 0 excediendo la que
+                      posea, sin permiso 0 consentimiento legalmente reconocido; introdujere, alterare,
+                       borrare 0 suprimiere datos informaticos 0 registros informaticos, previamente
+                       almacenados en un sistema informatico 0 sistema que utilice tecnologfas de la
+                      informacion y las comunicaciones, con el objeto de generar datos distintos a los
+                      almacenados, para que sean tomados 0 utilizados y tengan efectos legales como
+                       autemticos, con independencia de que los datos sean legibles e inteligibles
+                       directamente, al responsable de este delito se Ie impondra una pena de prision de
+                       dos a seis anos y multa de veinte a doscientos salarios mfnimos mensuales
+                       vigentes para actividades no agricolas.
+
+                       Articulo 12. Apropiaci6n de identldad ajena. Comete el delito de apropiacion de
+                       identidad ajena, quien, de forma deliberada, usurpe 0 falsifique, adopte 0 suplante
+                       sin autorizacion la identidad de otra persona individual 0 jurfdica a traves de un
+
+                     sistema informatico 0 sistema que haga uso de tecnologfas de la informacion y las
+
+                       comunicaciones, al responsable de este delito se Ie impondra una pena pena de
+                      prision de tres a seis anos y multa de cuarenta a cien salarios mfnimos mensuales
+                       vigentes para actividades no agrfcolas.
+
+                                                                                     23
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                          CONGRESO
+
+                                 DE LA REPUBLICA
+
+                                                                                                 X lECISLATURA
+
+                      Cuando la comision de este del.ito se realice infringiendo medidas de seguridad, se
+                      sancionara con pena de prision de cuatro a siete alios y multa de cuarenta a
+                      doscientos salarios minimos mensuales vigentes para aetividades no agricolas.
+
+                      Articulo 13. Abuso de disposltivos. Comete el delito de abuso de dispositivos 0
+                      accesos quien, sin autorizacion, sin consentimiento legalmente reconocido, 0
+                      excediendo el que posea, cometiere cualquiera de los aetos siguientes:
+
+                           a) Produzca, venda, obtenga para su utilizacion, posea, importe, difunda 0 de
+                               cualquier otra forma ponga a disposicion:
+                               I.Cualquier dispositivo, programa informatica, aplicaciones 0 sistema
+                                 informatico, 0 la combinacion de estos, concebidos 0 adaptados
+                                 principalmente para la comision de cualquiera de los delitos previstos en
+                                 los articulos 7 al 12 de la presente Ley;
+                               ii.Contraselias, codigos de acceso 0 datos informaticos similares que
+                                 permitan acceder a todo 0 parte de un sistema informatico 0 sistema que
+                                 utilice tecnologias de la informacion y las comunicaciones, con intencion
+                                 de que sean utilizados para cometer cualquiera de los delitos
+                                 contemplados en los articulos 7 al 12 de la presente Ley; 0,
+
+                           b) Cree, utilice, altere, capture, grabe, copie, 0 transfiera de un dispositiv~ a un
+                                medio u otro similar, 0 cualquier instrumento destinado a los mismos fines,
+                                los c6digos de identificacion y acceso al servicio 0 sistema informatico 0
+                                sistema que utilice tecnologias de la informacion y las comunicaciones, que
+                                permita la operacion paralela, simultanea 0 independiente de un servicio 0
+                                sistema informatico 0 sistema que utilice tecnologias de la informacion y las
+                                comunicaciones, legitimamente obtenido por un tercero; 0 bien, con la
+                                intencion de que sean utilizados para cometer cualquiera de los delitos
+                                previstos en los articulos 7 al 12 del presente cuerpo legal.
+
+                                                                                   24
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                          CONGRESO
+
+                                     DE LA REPUBLICA
+
+                                                                                                   X lEGISlATVRA
+
+                      AI responsable de este delito se Ie impondra un" pen" de prisi6n de tres a seis
+                      alios y multas desde veinte hasta doscientos salarios minimos mensuales vigentes
+                      para actividades no agricolas.
+
+                      Articulo 14. Fraude infonnatico. Comete el delito de fraude informativo, quien,
+                      para obtener algun beneficio para sf mismo 0 para tercera persona, mediante
+                      cualquier acci6n, haciendo uso de ingenieria social 0 manipulaci6n de un sistema
+                      que utilice tecnologias de la informaci6n y las comunicaciones, 0 de sus
+                      componentes, para procurar la transferencia no autorizada de cualquier activo
+                      patrimonial en perjuicio de otro, al responsable de este delito se Ie impondra una
+                      pena de priSion de cuatro a ocho alios y multa desde cien hasta trescientos
+                      salarios mfnimos mensuales vigentes para actividades no agricolas.
+
+                      Articulo 15. Agravantes generales. En las acciones delictivas descritas en los
+                       articulos del 7 al 14, en cuanto sea aplicable, las penas se aumentaran en una
+                      tercera parte, en los casos siguientes:
+
+                           a) Cuando el hecho sea realizado por cualquier persona que preste a haya
+                                prestado sus servicios, directa 0 indirectamente a la persona individual 0
+                                juridica afectada. En caso de que el delito hubiera sido realizado por
+                                empleado 0 funcionario publico, ademas de la pena aplicable, sera
+                                inhabilitado para ejercer funciones publicas por el mismo periodo que dure
+                                la pena principal;
+
+                            b) Cuando de la acci6n realizada resulte la denegacion de acceso, supresi6n a
+                                la modificaci6n de datos confldenciales, reservados a de seguridad
+                                nacional, contenidos en un sistema informatico 0 sistema que utilice
+                                tecnologias de la informaci6n y las comunicaciones;
+
+                            c) Cuando el acto se realice para recibir ilicitamente beneficio pecuniario 0 de
+                                cualquier otra indole, ya sea propio, para terceros, 0 para gozar de los
+                                                                                  2S
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                          CONGRESO
+
+                                    DE LAREPUBLICA
+
+                                                                                                 X LECISlATVR ....
+
+                               servicios ofrecidos a traves de cualquiera de estos sistem9s. Esto con
+                               excepci6n del articulo 16, en el que el supuesto normado como agravante
+                               configura por si mismo la figura tipo estipulada en el delito descrito;
+                           d) Quien, a sabiendas de la comisi6n de un hecho ilicito cometido por un
+                                tercero, obtuviere beneficio pecuniario 0 de cualquier otra indole, ya sea
+                                propio 0 para terceros, 0 para gozar de los servicios ofrecidos a traVElS de
+                                cualquiera de estos sistemas; y,
+                           el Cuando el hecho cometido sea realizado para deteriorar la infraestructura
+                                critica del Estado de Guatemala.
+
+                       Articulo 16. Oelltos y faltas en violacion de la propiedad Intelectual mediante
+                       el uso de tecnologlas de infonnacl6n 0 medios tecnol6gicos. A los
+                       responsables de la comision de los delitos relacionados con Propiedad Intelectual
+                       o Derechos de Autor y Derechos Conexos, que utilicen como plataforma sistemas
+                       informaticos 0 sistemas que utilicen las tecnologias de la informacion y las
+                       comunicaciones, se les impondra una pena aumentada en una cuarta parte, con
+                       relacion a la pena a imponer del delito que se hubiere cometido.
+
+                       EI ejercicio de la accion penal estara a 10 dispuesto a 10 que establece el Decreto
+                       Numero 57-2000 del Congreso de la Republica, Ley de Propiedad Industrial y el
+                        Decreto Numero 33-98 del Congreso de la Republica, Ley de Derecho de Autor y
+                       derechos conexos.
+
+                                                                      CAPiTULO III
+                                RESPONSABILIDAD Y PENAS ACCESORIAS DE LAS PERSONAS
+
+                                                           INOIVIDUALES Y JURiDICAS
+
+                                                                                  26
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                          CONGRESO
+
+                                     DE LA REPUBLICA
+
+                                                                                                   X lE(;ISlATURA
+
+                   Articulo 17. Responsabilidad de las Personas Individuale$ y Penas
+                    Accesorias. Las sanciones penales establecidas en Ia presente ley se aplicaran
+
+                      sin perjuicio de las responsabilidades civiles 0 administrativas que correspondan.
+
+                       Si los responsables fueren profesionales 0 tecnicos relacionados a cualquier rama
+                       de tecnologias de la informacion y la comunicaciOn, ademas de la sancion antes
+                       senalada, quedarim inhabilitados por el plazo que dure la condena y si fueren
+                       reincidentes quedaran inhabilitados vitaliciamente.
+
+                       La reparaci6n digna se regira conforme las disposiciones del Decreto Numero 51-
+                       92 del Congreso de la Republica de Guatemala, COdigo Procesal Penal.
+
+                       Articulo 18. Penas accesorias para personas jurldicas. Son penas accesorias
+                       que podra imponer el organo jurisdiccional competente a las personas juridicas las
+                       siguientes:
+
+                            a) La disolucion, procede cuando las personas que actuaron en
+                                representacion de la entidad juridica hayan sido condenadas con una pena
+                                privativa de libertad superior a cinco anos;
+
+                            b) La prohibicion definitiva 0 por un periodo no mayor de cinco anos, de
+                                ejercer directa 0 indirectamente una 0 varias actividades comerciales,
+                                economicas 0 sociales;
+
+                            c) La sujeci6n a la vigilancia por un periodo no mayor de cinco arios;
+                            d) La clausura definitiva 0 por un periodo de hasta cinco arios, de uno 0 varios
+
+                                 de los establecimientos de la empresa, que hubieran servido para cometer
+                                 los hechos imputables;
+                            e) La exclusion de participar en los procesos de concursar 0 celebrar contratos
+                                 con el Estado, 0 tener otra calidad referida a los proveedores y contratistas
+                                 del Estado, de modo definitivo 0 por un periodo no menor de cinco anos.
+
+                                                                                         27
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                          CONGRESO
+
+                                     DE LA REPUBLICA
+
+                                                                                             X lEC I S l A TV RA
+
+                         1) La prohibici6n definitiva 0 por un periodo no menor de cinco alios, para
+                               participar en actividades destinadas a la captaci6n de tftulos valores;
+
+                           g) La confiscaci6n de bienes que han servido 0 estaban destinados a cometer
+                               el delito 0 los que resulten derivados de la comisi6n de este; y,
+
+                           h) La publicaci6n de la sentencia pronunciada 0 la difusi6n de esta, de
+                               conformidad con el Decreto Numero 17-73 del Congreso de la Republica,
+                               C6digo Penal.
+
+                                                                      TiTULO III
+                                                            REGLAS PROCESAlES
+
+                                                                CAPiTULO UNICO
+                                MEDIDAS CAUTElARES, PROCESAlES Y PROCEDIMENTAlES
+
+                       Articulo 19. Ambito de aplicacion de las disposiciones de procedlmiento.
+                       Las normas del presente capitulo se aplicaran a:
+
+                           a) Los delitos previstos en esta ley;
+                           b) Cualquier otro delito cometido por medio de un sistema informatico 0
+
+                                sistema que utilice tecnologias de la informaci6n y las comunicaciones; y,
+                           c) La obtenci6n de indicios, medios de investigaci6n 0 pruebas informaticas,
+
+                                digitales 0 electronicas de cualquier delito.
+
+                      Articulo 20. Diligencias de urgencia para el aseguramiento de datos en
+                       poder de terceros. En caso de peligro que los datos objeto de una investigaci6n
+                       puedan ser a,terados 0 suprimidos, durante la investigl'lci6n 0 procesamiento de
+                       los delitos tipificados en la presente ley, se procedera a su secuestro con
+                       autorizaci6n judicial, el aseguramiento, resguardo y conservaci6n de datos
+                       informaticos concretos 0 especificos sera responsabilidad del Ministerio Publico.
+
+                                                                                        28
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                          CONCRESO
+
+                                    DE LAREPUBLICA
+
+                                                                                                 X I.EGISlATVR A
+
+                       La medida orden;!d;! no podra e.xceder <:Ie noventa dias, prorrogables por igu;!1
+                       periodo si se mantienen los motivos que fundamentaron la orden.
+
+                      Se debera procurar los medios necesarios para presentar y preservar la integridad
+                     de los datos en cuesti6n y quedando obligado el Ministerio Publico a mantener la
+                       confidencialidad, incurriendo en las responsabilidades que correspondan en caso
+                       de no prestar la colaboraci6n debida.
+
+                    Articulo 21. Orden de acceso y envi6 de datos. En caso de necesidad y
+
+                       razonabilidad comprobada el 6rgano jurisdiccional competente podra ordenar las
+                       siguientes medidas a los prestadores de servicios de comunicaciones,
+                      proveedores de servicios 0 terceros que usen tecnologias de la informaci6n y las
+                       comunicaciones de cualquier tipo:
+
+                            a) Que comunique, presente, remita 0 provea acceso de lectura a los datos
+                                 alojados en un sistema informatico 0 en un dispositivo de almacenamiento
+                               informatico que este bajo su poder 0 control y que se vinculen con la
+                                 investigaci6n de un delito;
+
+                           b) Entregue datos de los usuarios 0 abonados 0 los datos de identificaci6n y
+                                 facturaci6n de servicios con los que cuente, diferentes de los datos relativos
+                                 al trafico 0 al contenido; y,
+
+                            c) Que indique el tipo de servicio de comunicaci6n utilizado, periodo de
+                               servicios y lugar de ubicaci6n de los equipos.
+
+                        La orden podra contener la indicaci6n de que la medida debera mantenerse bajo
+                        reserva en un plazo de diez dias, plazo que podra prorrogarse a criterio del 6rgano
+
+                     jurisdiccional a solicitud del Ministerio Publico; y con apercibimiento de certificar 10
+
+                        conducente en caso de incumplimiento.
+
+                                                                                                 29
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                          CONGRESO
+
+                                     DE LA REPUBLICA
+
+                                                                                                   X LEGISLATURA
+
+                      ArtiCUlo 22. Dilig~ncias de investigaci(m, registro y secu"tro de medios
+                      digitales 0 electr6nicos. EI 6rgano jurisdiccional competente podra ordenar a
+                      requerimiento del Ministerio Publico, el registro de un sistema informatico, de una
+                      parte, de este, 0 de un medio de almacenamiento de datos informaticos,
+                      electr6nicos 0 de la comunicacion, pudiendo realizar las diligencias de
+                      investigaci6n correspondiente.
+
+                      Ademas, el 6rgano jurisdiccional podra ordenar, siempre a requerimiento del
+                      Ministerio Publico:
+
+                          a) Secuestrar los dispositivos con sus componentes fisicas y digitales, que
+                               integren 0 no un sistema informatico siempre y cuando no afecten a una
+                                infraestructura critica;
+
+                           b) Obtener copia de los datos 0 componentes del sistema informatica
+                                involucrado en la investigaci6n;
+
+                           c) Preservar la integridad de los datos informaticos almacenados pertinentes;
+                               y,
+
+                            d) Hacer inaccesibles dichos datos informaticos del sistema sujeto de
+                                investigaci6n, con el objeto de preservar la integridad de estos.
+
+                     Regiran en cuanto sean aplicables las normas y limites dispuestos para el
+                     secuestro de documentos y correspondencia epistolar.
+
+                       En los supuestos en los que, durante la ejecuci6n de una medida de secuestro de
+                       datos de un sistema informatico, previstos en el parrafo anterior, surjan elementos
+                       que permitan considerar que los datos buscados se encuentran almacenados en
+                        otro dispositivo 0 sistema informatico al que se tiene acceso licito desde el
+                        dispositiv~ 0 sistema inicial; el ente investigador que ejecuta la medida podra
+                        extenderla 0 ampliar el registro al otro sistema, siempre que medie orden judicial
+                        sobre estos dos liltimos aspectos.
+
+                                                                                              30
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                          CONGRESO
+
+                                     DE LAREPUBLICA
+
+                                                                                                X LEGISlATURA
+
+                      Articulo 23. Interc.:epta(:iones. Cuando sea necesario evitar, interrumpjr 0
+                      investigar la comision de los delitos regulados en la presente ley podra
+                      interceptarse, grabarse y reproducirse, con autorizacion judicial, comunicaciones
+                      orales, escritas, telefonicas, radiotelefonicas, informaticas y similares que utilicen
+                      el espectro electromagnetico, asi como cualquier otro que use tecnologias de la
+                      informacion y las comunicaciones incluyendo los elementos que por su naturaleza
+                      form en parte de un dispositivo de manera fisica 0 digital.
+
+                      Son aplicables supletoriamente para el caso de interceptaciones, las disposiciones
+                      de la Ley Contra la Delincuencia Organizada, Decreto Numero 21-2006 del
+                      Congreso de la Republica de Guatemala.
+
+                       Articulo 24. Comiso. EI organo jurisdiccional competente podra ordenar el
+                       comiso de los objetos 0 instrumentos del delito, en todo caso debera observarse 10
+                       dispuesto en el Decreto Numero 17-73 del Congreso de la Republica de
+                       Guatemala, C6cligo Penal, y Decreto Numero 51-92 del Congreso de la Republica
+                       de Guatemala, Cooigo Procesal Penal.
+
+                       Articulo 25. Cooperaci6n intemacional. En caso de requerimiento de
+                       informacion de caracter internacional, las solicitudes de aseguramiento de datos,
+                       solicitudes de presentacion de datos, de obtencion 0 confiscacion, de acceso libre
+                       a datos de fuente abierta y asistencia mutua para obtencion de datos sobre el
+                       trafico e interceptacion de comunicaciones, se estara a 10 dispuesto en tratados y
+                       convenios aceptados y ratificados por el Estado de Guatemala, asi como al
+                       derecho interno.
+
+                       En case de orden de aseguramiento de datos informaticos almacenados, solo esta
+                        permitido que las autoridades competentes ordenen la conservacion de los datos,
+
+                                                                                  31
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                          CONGRESO
+
+                                   DE LA REPUBLICA
+
+                                                                                             X l E GISlAT V RA
+
+                       pero no su revelacion y en caso de requerimiento de presentacion de datos
+                       informaticos almacenados en cumplimiento de una orden de presentaciOn si se
+                       ordenara su revelacion para fines de la investigacion, debiendo ser justificado por
+                       el Ministerio PubliCO ante el organo jurisdiccional competente, quien emitira la
+                       resoluci6n que en derecho correspondiente.
+
+                                                                        TiTULO IV
+                                          GESTION Y VIGILANCIA DE lA CIBERSEGURIDAD
+
+                                                                       CAPiTULO I
+                             MARCO DE GESTION DE CIBERSEGURIDAD PARA LAS ENTIDADES
+
+                                            GESTORAS DE INFRAESTRUCTURAS CRiTICAS
+
+                       Articulo 26. Marco de gesti6n de la ciberseguridad. Las entidades a las que se
+                       refiere el articulo 6 de Ia presente ley deberan establecer e implementar una
+                       estructura organizacional, politicas y procedimientos para gestionar la
+                       ciberseguridad, debiendo considerar como minimo, las funciones siguientes:
+
+                            a) Identificaci6n: las entidades deberan tomar en cuenta su contexto
+                                 tecnol6gico, los activ~s en el ciberespacio que soportan los servicios
+                                 criticos de sus operaciones y el riesgo tecnol6gico asociado, considerando
+                                 entre otros aspectos, la identificacion y documentacion de dichos activos; y,
+                                 la identificacion, analisis, clasificaci6n y documentacion de sus
+                                 vulnerabilidades ciberneticas, ciberamenazas, ciberataques, incidentes
+                                ciberneticos y los efectos de estos.
+
+                            b) Protecci6n: desarrollar e implementar politicas, procesos y procedimientos
+                                 para proteger la confidencialidad, integridad y disponibilidad de sus activos
+                                 en el ciberespacio, con el objeto de prevenir, Iimitar 0 contener el impacto
+                                 de un ciberataque.
+
+                             c) Detecci6n: monitorear los activ~s en el ciberespacio, accesos, conexiones,
+                                 las acciones que realizan los usuarios internos 0 externos, aplicaciones y
+                                                                                   32
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                          CONGRESO
+
+                                     DE LAREPUBLICA
+
+                                                                                                X lECISlATURA
+
+                               acciones de los proveedores de servicios extemos en una instituci6n, para
+                               detectar vulnerabilidades ciberneticas, ciberamenazas, ciberataques e
+                               incidentes ciberneticos, con el objeto de proporcionar una visibilidad
+                               centralizada, monitoreo continuo y emision de alertas.
+                          d) Respuesta: contar con procesos y procedimientos para garantizar una
+                               respuesta oportuna, durante y despues de un incidente cibernetico.
+                           e) Recuperaci6n: establecer y mantener mecanismos para resistir, responder
+                               y recuperarse de un incidente cibernetico, con el objeto de restaurar
+                               cualquier activo en el ciberespacio 0 servicios relacionados a este, que
+                               haya sido afectado debido a un incidente cibemetico.
+
+                      Articulo 27. Oticial de seguridad de la informaci6n. La maxima autoridad de la
+                      entidad gestora de infraestructuras criticas debera nombrar un Oficial de
+                      Seguridad de la informacion que sera responsable de coordinar el cumplimiento
+                       de las politicas, procedimientos y mecanismos de seguridad de la informacion y
+
+                   ciberseguridad , para preservar la confidencialidad, integridad y disponibilidad de la
+
+                       informacion y dirigir el equipo de respuesta a incidentes de seguridad informatica
+                       de la entidad.
+
+                       Articulo 28. Equipos de respuesta a incidentes de seguridad informatica. Las
+                       entidades gestoras de infraestructuras criticas, publicas 0 privadas deberan
+                       organizar un equipo de respuesta de seguridad informatica que actuara ante la
+                       existencia de un incidente cibernetico, con el objeto de contener y mitigar el
+                       impacto de este; promover los procesos de recuperacion y resiliencia; y, notificar
+                       oportunamente a las autoridades de vigilancia que correspondan y al CSIRT-GT,
+                       sin perjuicio de las limitaciones constitucionales y legales especificas en cuanto a
+                       la confidencialidad y reserva de la informaci6n.
+
+                                                                                  33
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                          CONGRESO
+
+                                   DE LAREPUBLICA
+
+                                                                                               X LEGISlATURA
+
+                      Este equipo debera estar conformado por personal multidisciplinario de distintas
+                      areas de la entidad y sera dirigido por el Oficial de Seguridad de la Informacion de
+                      esta.
+
+                                                                    CAPiTULO II
+                                                            MARCO DE VIGllANCIA
+                      Articulo 29. Autoridades de vigilancia. Las autoridades de vigilancia
+                      supervisaran en su ambito de actuacion el cumplimiento del marco de gestiOn de
+                      la ciberseguridad, establecido en el capitulo anterior, p~r parte de las entidades
+                      gestoras de infraestructuras criticas.
+
+                      Articulo 30. Centro de Seguridad Interinstitucional de Respuesta Tecnica
+                      ante Incidentes Informaticos de Guatemala (CSIRT-GT). Se crea el Centro de
+                      Seguridad Interinstitucional de Respuesta Tecnica ante incidentes informaticos de
+                      Guatemala, cuyas siglas sera CSIRT-GT, cuya naturaleza es de alerta
+                      permanente para detectar y dar atencion a los casos y emergencias de
+                      ciberseguridad, ciberdelincuencia y ciberdefensa que se presenten; asi como
+                       realizar acciones tendientes a que los usuarios puedan prevenir los ataques a sus
+                       datos 0 sistemas informaticos.
+
+                       EI CSIRT-GT estara integrado por un representante titular y un suplente de alto
+                       nivel, de las siguientes instituciones, debiendo ser designado por la maxima
+                       autoridad de cada una de las siguientes entidades:
+
+                           a) Ministerio de la Defensa Nacional;
+                           b) Ministerio de Gobernacion;
+                           c) Ministerio de Relaciones Exteriores;
+                           d) Ministerio de Comunicaciones Infraestructura y Vivienda;
+                            e) Ministerio de Finanzas Publicas;
+                           f) Secretaria de Inteligencia Estrategica del Estado; y,
+
+                                                                                         34
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                      CONGRESO
+
+                               DE LAREPUSLICA
+
+                                                                                                     X LEC;ISLATURA
+
+                        g) Procuraduria General de la Nadon .
+
+                    EI CSIRT-GT contara con una secretaria permanente para su funcionamiento,
+                    apoyo tecnico y administrativ~ pudiendo conformar consejos tecnicos ad-hoc.
+
+                    Todos los organismos de Estado, sus dependencias, entidades descentralizadas y
+                    autonomas, incluyendo las municipalidades, y demas instituciones que conforman
+                    el sector publico deben aSignar un equipo de respuesta a incidentes de seguridad
+                    informatica y contar con un oficial de seguridad de la informacion.
+
+                    Articulo 31. Disposiciones relativas al CSIRT-GT. EI CSIRT-GT actuara de
+                    conformidad con las siguientes disposiciones:
+
+                         a) La coordinacion del CSIRT-GT sera rotativa entre cada uno de los
+                             miembros titulares por un periodo anual;
+
+                         b) Debera fungir como un organa de respuesta a incidentes de seguridad
+                             cibernetica que puedan presentarse tanto sectoriales, publicos 0 privados;
+                             y, actuara en coordinacion con otros comites 0 equipos de respuesta
+                              nadonal e internacional;
+
+                         c) Debera estar inscrito y certificado ante una 0 mas entidades y organismos
+                              internacionales, de conformidad con su area 0 especialidad;
+
+                         d) Tendra funciones como CSIRT de Estado; sera el punto de contacto a nivel
+                            nacional ante incidentes informaticos y trasladara la informacion
+                              correspondiente al Consejo Nacional de Seguridad;
+
+                         e) Coordinara interinstitucionalmente los casos en los que intervenga,
+                             aplicando los conocimientos tecnicos y juridicos que correspondan,
+
+                           dandoles seguimiento; y,
+
+                                                                                        3S
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                     CONCRESO
+
+                               DE LAREPUBLICA
+
+                                                                                                    X L EGISLATURA
+
+                         f) Rendira infomles cuando se considere pertinente no exc~iendo los tres
+                             meses, al Consejo Nacional de Seguridad, respecto a su funcionamiento e
+                             incidentes reportados; y,
+
+                         g) Llevara el registro y control de los equipos de respuesta a incidentes de
+                             seguridad informatica de las entidades gestoras de infraestructuras criticas.
+
+                                                              TITULO V
+
+                       COOPERACI6N INTERNACIONAL PARA 6RGANOS DE APLICACI6N DE LA
+                                                                             LEY
+
+                                                                       CAPiTULO I
+                                              RED DE ATENCI6N PERMANENTE (2417)
+
+                   Articulo 32. Red de Asistencia Mutua contra Delitos Infonnaticos (RED 2417
+                     Guatemala). EI Ministerio Publico creara una unidad de atencion permanente,
+                     como punto de contacto localizable las veinticuatro horas del dia y siete dias a la
+                     semana, integrandose a traves de redes a las que Gl!atemala se adhiera 0 forme
+                     parte; Ia que se denominara Red de Asistencia Mutua contra Delitos Informaticos 0
+                     RED 2417 Guatemala; con el objeto de garantizar la prestacion de ayuda inmediata
+                     a nivel internacional para los fines de las investigaciones 0 procedimientos
+                     relacionados con los indicios de los delitos vinculados a sistemas y datos
+                     informaticos, 0 para la obtencion de indicios, medios de investigacion 0 pruebas
+                     electronicas en la comision de un hecho delictivo.
+
+                     Se debera incluir los actos que tiendan a facilitar las medidas de conformidad con
+                      la legislacion nacional y 10 establecido en la presente ley.
+
+                                                                                  36
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                          CONGRESO
+
+                                    DE LAREPUBLICA
+
+                                                                                                X l E GISlATURA
+
+                                                                     CAPiTULO II
+                                           COOPERACI6N EN MATERIA DE EXTRADICI6N
+
+                      Articulo 33. Cooperaci6n en materia de extradici6n. Tratandose de los
+                      procedimientos a observar en materia de extradici6n se aplicarim las disposiciones
+                      de la Ley Reguladora del Procedimiento de Extradicion, Decreto Numero 28-2008
+                      del Congreso de la Republica, asi como los tratados internacionales en materia de
+                      extradicion de los que el Estado de Guatemala sea parte.
+
+                      Articulo 34. Otras acciones de fortalecimiento. EI Estado de Guatemala por
+                      medio de las instituciones involucradas, establecera una politica de cooperaci6n a
+                      traves de tratados y convenios de forma bilateral 0 multilateral, asimismo buscara
+                      armonizar sus planes con politicas regionales en materia de legislaci6n contra
+                      delitos que afecten el uso de las tecnologias de la informaci6n y comunicaciones,
+                       para lograr la cooperacion tecnica y econ6mica internacional de sus organos
+                       competentes y de forma inmediata, con el fin de fortalecer los programas de
+                       prevencion, investigaci6n, asi como contrarrestar estas conductas antijurfdicas; y
+                       armonizar todos los aspectos relacionados con el derecho procesal penal
+                       internacional.
+
+                                                                        TiTULO VI
+                                               DISPOSICIONES TRANSITORIAS Y FINALES
+                       Articulo 35. Reglamento. EI Organismo Ejecutivo debera elaborar el reglamento
+                       de la presente ley dentro del improrrogable plazo de sesenta dias a partir de que
+                       la misma cobre vigencia; aSimismo, debera publicar el primer Catalogo de
+                       Infraestructuras Criticas dentro del plazo de seis meses contados a partir de la
+                       entrada en vigencia de la presente ley .
+
+                                                                                         37
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                          CONGRESO
+
+                                     DE LA REPUBLICA
+
+                                                                                               X LEGISLATIJRA
+
+                      Por su parte, I;lS entioades gestoras oe infraestructuras criticas. en el plazo de
+                      dieciocho meses contados a partir de Ia publicacion del Catalogo de
+                      Infraestructuras Criticas, deberan adecuarse a las disposiciones de la presente
+                      ley, incluyendo la elaboracion y aprobacion de los manuales, protocolos 0
+                      reformas a los mismos que sean necesarios para el cumplimiento de sus
+                      funciones establecidas en la presente ley.
+
+                      Articu lo 36. Transitorio. Las instituciones estatales competentes relacionadas en
+                      esta ley, deberan readecuar su presupuesto a fin de contar con la disponibilidad
+                      presupuestaria para ejecutar sus actividades encargadas dentro del marco oe la
+                      ley. Asimismo, dichas instituciones programaran anualmente los recursos
+                      necesarios para realizar de manera adecuada sus actividades relacionadas en la
+                      presente Ley.
+
+                      Articulo 37. Transitorio. Es deber del Estado de Guatemala que la aplicaciOn de
+                      esta Ley este a cargo de organos jurisdiccionales especializados, para cuyo efecto
+                       la Presidencia del Organismo Judicial, a traves de la unidad respectiva, debera
+                       crear y facilitar el apoyo logistico necesario para el funcionamiento de los organos
+                       jurisdiccionales especializados que conozcan sobre los delitos tipiftcados en la
+                       presente ley. Previo a dicha creacion continuaran conociendo segun su
+                       competencia los juzgados y tribunales ordinarios.
+
+                       EI Ministerio Publico, el Instituto de la Defensa Publica Penal, el Instituto Nacional
+                       de Ciencias Forenses y Ia Direccion General de Policia Nacional Civil del
+                       Ministerio de Gobernacion, deberan crear y dotar de manera inmediata las
+                       capacidades, equipos y tecnologias suficientes a las unidades correspondientes
+                       para la aplicacion de la presente ley.
+
+                                                                                          38
+Congreso de la República de Guatemala, Departamento de Información Legislativa
+
+                          CONGRESO
+
+                                      DE LAREPUBLICA
+
+                                                                                                        X lEGISlATVRA
+
+                     Articulo 38, Se acliciona la literal j) al articulo 2 del Decreto Numero 21-2006 clel
+
+                        Congreso cle la Republica, Ley Contra la Delincuencia Organizada, el cual queda
+                        cle la siguiente manera:
+
+                        "i) De los contenidos en la Ley de Ciberseguridad; acceso ilicito; interceptaci6n
+
+                    i/icita; ataque a la integridad de datos informaticos; ataque a la integridad del
+
+                         sistema informatico; falsificaci6n informatica; apropiaci6n de identidad ajena;
+                         abuso de dispositivos; fraude informatico. "
+                      Articulo 39, Derogatortas, Se derogan los articulos 274 "A", 274 "B" , 274 "CO,
+                        274 "0", 274 "F" Y 274 "G" del C6digo Penal, Decreto Numero 17-73 del Congreso
+                        de la Republica de Guatemala.
+
+                       Articulo 4(), Vigencla, EI presente Decreto entrara en vigencia sesenta dias
+
+                     despues de su publicaci6n en el Diario Oficial.
+
+                       REMiTASE AL ORGANISMO EJECUTIVO PARA SU SANCION,
+                       PROMULGACION Y PUBLICACION,
+                       EMITIDO EN EL PALACIO DEL ORGANISMO LEGISLATIVO, EN LA CIUDAD
+                       DE GUATEMALA, A LOS _ _ DEL MES DE._ _ DEL ANO DOS MIL
+                       VEINTICUATRO,
+
+                                                                                            39
+

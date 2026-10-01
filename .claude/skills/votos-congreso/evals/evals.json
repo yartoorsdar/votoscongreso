@@ -1,0 +1,34 @@
+{
+  "skill_name": "votos-congreso",
+  "nota": "Casos de prueba sin aserciones todavía. No se corrieron con subagentes porque cada uno toca el sitio real del Congreso (ritmo lento, una petición a la vez); la skill se verificó en vivo con una sesión real: 23 votaciones releídas y 3,680 votos idénticos a los ya guardados.",
+  "evals": [
+    {
+      "id": 1,
+      "name": "actualizacion-semanal",
+      "prompt": "ya pasó la sesión del jueves, actualiza la web con lo nuevo del congreso y dime qué leyes cambiaron. no quiero estar dando clic a nada",
+      "expected_output": "Corre estado.py, genera el código con preparar_js.py votos desde la fecha del último dato, lo ejecuta en una pestaña del Congreso sin descargas ni servidor local, exporta por el resultado de javascript_tool, importa, trae el detalle de iniciativas nuevas (decreto oficial), regenera la web, verifica con cifras (presentes + ausentes + licencias = 160), republica en el MISMO enlace y resume en números qué cambió.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "ampliar-2024-2025-estimacion",
+      "prompt": "cuánto tardarías en agregar 2024 y 2025 al sistema? y hay forma de hacerlo sin que yo tenga que guardar archivos?",
+      "expected_output": "Responde con una estimación basada en datos (132 sesiones x ~11.5 votaciones x ~4 s = 1 h 45 min a 2 h 30 min), explica que no hay descargas porque los datos salen por el resultado de javascript_tool, advierte que el bloque seguirá siendo el actual (el sitio no guarda historia) y aclara que los años anteriores aportan las leyes de esos años pero no completan las de años posteriores (el primer y el segundo debate no se votan). No empieza el rastreo sin visto bueno.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "name": "decreto-que-no-aparece",
+      "prompt": "en la web no me sale el decreto 23-2026, revisa por qué",
+      "expected_output": "Busca el decreto y su iniciativa en la base, explica que el número de decreto no viene en el texto de las votaciones, corre js/iniciativas.js para leer el detalle oficial («Número de Decreto»), importa con importar_iniciativas.py, regenera la web, comprueba que la búsqueda por «23-2026» devuelve la ley y republica. Si el decreto aún no existe en el sitio, lo dice sin inventar.",
+      "files": []
+    },
+    {
+      "id": 4,
+      "name": "resumen-de-ley-nueva",
+      "prompt": "aprobaron una ley nueva ayer, ponle el resumen de qué trata como a las otras",
+      "expected_output": "Identifica la ley sin resumen con estado.py, lee el PDF dentro de la página con js/pdf.js (sin descargarlo), redacta 2 o 3 frases claras solo con lo que dice el texto, las agrega a resumenes_leyes.py con la fuente correcta, regenera y publica; si no logra leer el PDF, no inventa el resumen.",
+      "files": []
+    }
+  ]
+}
